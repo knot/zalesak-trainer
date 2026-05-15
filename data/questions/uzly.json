@@ -6,9 +6,9 @@
       "Lodní uzel",
       "Osmičkový uzel",
       "Tesařský uzel",
-      "Dračí smyčka"
+      "Rybářský uzel"
     ],
-    "video": "https://www.youtube.com/watch?v=nnQ91LMiq9I"
+    "video": "https://www.youtube.com/watch?v=Q9NqGd7464U"
   },
   {
     "q": "Jaký uzel se používá ke spojování dvou lan stejné tloušťky?",
@@ -16,10 +16,10 @@
     "options": [
       "Plochý uzel (čtvercový)",
       "Lodní uzel",
-      "Lodní smyčka",
+      "Škotová spojka",
       "Alpský motýl"
     ],
-    "video": "https://www.youtube.com/watch?v=Kx-YQTghdrQ"
+    "video": "https://www.youtube.com/watch?v=0Y_iorha2k4"
   },
   {
     "q": "Jak se nazývá uzel ve tvaru číslice 8?",
@@ -30,7 +30,7 @@
       "Tesařský uzel",
       "Prusíkův uzel"
     ],
-    "video": "https://www.youtube.com/watch?v=1B_L7cabRbM"
+    "video": "https://www.youtube.com/watch?v=GFlwrvggas0"
   },
   {
     "q": "Jaký uzel se váže na tyč nebo kůl pro upevnění lana?",
@@ -41,7 +41,7 @@
       "Plochý uzel",
       "Zkracovačka"
     ],
-    "video": "https://www.youtube.com/watch?v=qZueIEI0GVE"
+    "video": "https://www.youtube.com/watch?v=kA48yzKYp3Q"
   },
   {
     "q": "Jak se jmenuje uzel pro zkrácení lana bez stříhání?",
@@ -50,9 +50,9 @@
       "Zkracovačka",
       "Alpský motýl",
       "Prusíkův uzel",
-      "Dračí smyčka"
+      "Rybářský uzel"
     ],
-    "video": "https://www.youtube.com/watch?v=YbY1KNy3TUg"
+    "video": "https://www.youtube.com/watch?v=lopGPwY-sno"
   },
   {
     "q": "Jaký uzel umožňuje posunování po napnutém laně (třecí uzel)?",
@@ -63,7 +63,7 @@
       "Osmičkový uzel",
       "Tesařský uzel"
     ],
-    "video": "https://www.youtube.com/watch?v=qGtmhpODP0E"
+    "video": "https://www.youtube.com/watch?v=BtNe0xM-zvo"
   },
   {
     "q": "Jak se jmenuje uzel pro spojení dvou lan různých tlouštěk?",
@@ -74,7 +74,7 @@
       "Alpský motýl",
       "Lodní uzel"
     ],
-    "video": "https://www.youtube.com/watch?v=v_ix3iXigK4"
+    "video": "https://www.youtube.com/watch?v=vsj7riFkulE"
   },
   {
     "q": "Jaký uzel zálesáci používají jako základní spojovací uzel?",
@@ -85,7 +85,7 @@
       "Alpský motýl",
       "Lodní uzel"
     ],
-    "video": "https://www.youtube.com/watch?v=Kx-YQTghdrQ"
+    "video": "https://www.youtube.com/watch?v=0Y_iorha2k4"
   },
   {
     "q": "Jak se jmenuje uzel tvořící pevnou smyčku uprostřed lana?",
@@ -96,7 +96,7 @@
       "Osmičkový uzel",
       "Rybářský uzel"
     ],
-    "video": "https://www.youtube.com/watch?v=gQZnNipaSi4"
+    "video": "https://www.youtube.com/watch?v=Nw9fNxSGqAo"
   },
   {
     "q": "Jaký uzel tuhne při zatížení a je samosvěrný?",
@@ -105,9 +105,9 @@
       "Prusíkův uzel",
       "Zkracovačka",
       "Tesařský uzel",
-      "Dračí smyčka"
+      "Lodní uzel"
     ],
-    "video": "https://www.youtube.com/watch?v=qGtmhpODP0E"
+    "video": "https://www.youtube.com/watch?v=BtNe0xM-zvo"
   },
   {
     "q": "Jak se jmenuje horolezecký uzel pro jistění na laně (UIAA)?",
@@ -118,10 +118,10 @@
       "Prusíkův uzel",
       "Plochý uzel"
     ],
-    "video": "https://www.youtube.com/watch?v=-sg4IwdIonY"
+    "video": "https://www.youtube.com/watch?v=6xDmQOMIXSI"
   },
   {
-    "q": "Jaký uzel se používá pro napínání šňůry tábora nebo stanu?",
+    "q": "Jaký uzel zálesák použije k upevnění lana k tyči, kůlu nebo větvi stromu?",
     "a": "Tesařský uzel",
     "options": [
       "Tesařský uzel",
@@ -129,7 +129,7 @@
       "Plochý uzel",
       "Alpský motýl"
     ],
-    "video": "https://www.youtube.com/watch?v=qZueIEI0GVE"
+    "video": "https://www.youtube.com/watch?v=kA48yzKYp3Q"
   },
   {
     "q": "Jak se jmenuje nejzákladnější horolezecký uzel pro připevnění k laně?",
@@ -140,7 +140,7 @@
       "Lodní uzel",
       "Prusíkův uzel"
     ],
-    "video": "https://www.youtube.com/watch?v=1B_L7cabRbM"
+    "video": "https://www.youtube.com/watch?v=GFlwrvggas0"
   },
   {
     "q": "Jaký uzel použiješ pro spojení lana s karabinou nebo kůlem?",
@@ -151,6 +151,6 @@
       "Prusíkův uzel",
       "Zkracovačka"
     ],
-    "video": "https://www.youtube.com/watch?v=nnQ91LMiq9I"
+    "video": "https://www.youtube.com/watch?v=Q9NqGd7464U"
   }
 ]
