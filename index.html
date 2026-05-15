@@ -401,7 +401,6 @@
 
 <script>
 // ========== DATA ==========
-const IMAGES    = window.IMAGES_DATA    || {};
 const QUESTIONS = window.QUESTIONS_DATA || {};
 
 const QUIZ_SIZE = 20;
@@ -463,15 +462,9 @@ function renderQuestion() {
 
   const imgEl = document.getElementById('q-image');
   if (q.img) {
-    const [catName, imgName] = q.img.split('/');
-    const src = IMAGES[catName] && IMAGES[catName][imgName];
-    if (src) {
-      imgEl.src       = src;
-      imgEl.className = 'question-image' + (q.imgClass ? ' ' + q.imgClass : '');
-      imgEl.style.display = 'block';
-    } else {
-      imgEl.style.display = 'none';
-    }
+    imgEl.src       = 'images/' + q.img + '.jpg';
+    imgEl.className = 'question-image' + (q.imgClass ? ' ' + q.imgClass : '');
+    imgEl.style.display = 'block';
   } else {
     imgEl.style.display = 'none';
   }
