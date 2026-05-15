@@ -111,12 +111,12 @@
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
-    "img": "dominanty/kacina_zamek",
-    "a": "Kačina",
+    "img": "dominanty/jested",
+    "a": "Ještěd",
     "options": [
       "Kunětická hora",
       "Petřínská rozhledna",
-      "Kačina",
+      "Ještěd",
       "Panská skála"
     ]
   },
@@ -166,10 +166,10 @@
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
-    "img": "dominanty/krivoklat",
-    "a": "Křivoklát",
+    "img": "dominanty/kromeriz_kvetna_zahrada",
+    "a": "Kroměříž – Květná zahrada",
     "options": [
-      "Křivoklát",
+      "Kroměříž – Květná zahrada",
       "Brno – Špilberk",
       "Kost",
       "Vítkovické pece"
@@ -232,23 +232,23 @@
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
-    "img": "dominanty/litomysl_zamek",
-    "a": "Litomyšl",
+    "img": "dominanty/lednice_zamek",
+    "a": "Lednice",
     "options": [
       "Plzeň – Velká synagoga",
       "Kačina",
       "Domažlice – šikmá věž",
-      "Litomyšl"
+      "Lednice"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
-    "img": "dominanty/macocha_propast",
-    "a": "Macocha",
+    "img": "dominanty/lysa_hora",
+    "a": "Lysá hora",
     "options": [
       "Písek – kamenný most",
       "Hluboká nad Vltavou",
-      "Macocha",
+      "Lysá hora",
       "Kuks"
     ]
   },
@@ -485,12 +485,12 @@
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
-    "img": "dominanty/trebic_bazilik_a",
-    "a": "Třebíč – bazilika",
+    "img": "dominanty/trosky",
+    "a": "Trosky",
     "options": [
       "Švihov",
       "Plzeň – chrám sv. Bartoloměje",
-      "Třebíč – bazilika",
+      "Trosky",
       "Vítkovické pece"
     ]
   },
