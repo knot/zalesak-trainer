@@ -1,6 +1,6 @@
 [
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/bobr",
     "a": "bobr evropský",
     "options": [
@@ -11,7 +11,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/danek_evropsky",
     "a": "daněk evropský",
     "options": [
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/jelen",
     "a": "jelen lesní",
     "options": [
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/jezevec",
     "a": "jezevec lesní",
     "options": [
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/jezek",
     "a": "ježek evropský",
     "options": [
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/kamzik",
     "a": "kamzík horský",
     "options": [
@@ -66,7 +66,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/kralik",
     "a": "králík divoký",
     "options": [
@@ -77,7 +77,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/krtek",
     "a": "krtek obecný",
     "options": [
@@ -88,7 +88,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/krecek",
     "a": "křeček polní",
     "options": [
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/kuna_lesni",
     "a": "kuna lesní",
     "options": [
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/liska_obecna",
     "a": "liška obecná",
     "options": [
@@ -121,7 +121,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/medved",
     "a": "medvěd hnědý",
     "options": [
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/muflon",
     "a": "muflon evropský",
     "options": [
@@ -143,7 +143,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/mys",
     "a": "myš lesní",
     "options": [
@@ -154,7 +154,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/netopyr",
     "a": "netopýr velký",
     "options": [
@@ -165,7 +165,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/nutrie",
     "a": "nutrie bahenní",
     "options": [
@@ -176,7 +176,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/ondatra",
     "a": "ondatra pižmová",
     "options": [
@@ -187,7 +187,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/nutrie_vs_ondatra",
     "a": "nutrie bahenní vs. ondatra pižmová",
     "options": [
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/plch",
     "a": "plch velký",
     "options": [
@@ -209,7 +209,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/potkan",
     "a": "potkan obecný",
     "options": [
@@ -220,7 +220,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/prase_divoke",
     "a": "prase divoké",
     "options": [
@@ -231,7 +231,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/prase_domaci",
     "a": "prase domácí",
     "options": [
@@ -242,7 +242,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/rejsek",
     "a": "rejsek obecný",
     "options": [
@@ -253,7 +253,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/rys_ostrovid",
     "a": "rys ostrovid",
     "options": [
@@ -264,7 +264,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/srnec_obecny",
     "a": "srnec obecný",
     "options": [
@@ -275,7 +275,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/veverka_obecna",
     "a": "veverka obecná",
     "options": [
@@ -286,7 +286,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/vlk",
     "a": "vlk obecný",
     "options": [
@@ -297,7 +297,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/vydra",
     "a": "vydra říční",
     "options": [
@@ -308,7 +308,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/zajic",
     "a": "zajíc polní",
     "options": [
@@ -319,7 +319,7 @@
     ]
   },
   {
-    "q": "Co je tato ryba?",
+    "q": "",
     "img": "prirodniny/candat",
     "a": "candát obecný",
     "options": [
@@ -330,7 +330,7 @@
     ]
   },
   {
-    "q": "Co je tato ryba?",
+    "q": "",
     "img": "prirodniny/cejn",
     "a": "cejn velký",
     "options": [
@@ -341,7 +341,7 @@
     ]
   },
   {
-    "q": "Co je tato ryba?",
+    "q": "",
     "img": "prirodniny/kapr_obecny",
     "a": "kapr obecný",
     "options": [
@@ -352,7 +352,7 @@
     ]
   },
   {
-    "q": "Co je tato ryba?",
+    "q": "",
     "img": "prirodniny/karas",
     "a": "karas obecný",
     "options": [
@@ -363,7 +363,7 @@
     ]
   },
   {
-    "q": "Co je tato ryba?",
+    "q": "",
     "img": "prirodniny/lin",
     "a": "lín obecný",
     "options": [
@@ -374,7 +374,7 @@
     ]
   },
   {
-    "q": "Co je tato ryba?",
+    "q": "",
     "img": "prirodniny/okoun",
     "a": "okoun říční",
     "options": [
@@ -385,7 +385,7 @@
     ]
   },
   {
-    "q": "Co je tato ryba?",
+    "q": "",
     "img": "prirodniny/pstruh",
     "a": "pstruh obecný",
     "options": [
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "q": "Co je tato ryba?",
+    "q": "",
     "img": "prirodniny/sumec_velky",
     "a": "sumec velký",
     "options": [
@@ -407,7 +407,7 @@
     ]
   },
   {
-    "q": "Co je tato ryba?",
+    "q": "",
     "img": "prirodniny/stika_obecna",
     "a": "štika obecná",
     "options": [
@@ -418,7 +418,7 @@
     ]
   },
   {
-    "q": "Co je tato ryba?",
+    "q": "",
     "img": "prirodniny/uhor",
     "a": "úhoř říční",
     "options": [
@@ -429,7 +429,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/bazant_obecny",
     "a": "bažant obecný",
     "options": [
@@ -440,7 +440,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/cap_bily",
     "a": "čáp bílý",
     "options": [
@@ -451,7 +451,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/cap_cerny",
     "a": "čáp černý",
     "options": [
@@ -462,7 +462,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/datel_cerny",
     "a": "datel černý",
     "options": [
@@ -473,7 +473,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/havran",
     "a": "havran polní",
     "options": [
@@ -484,7 +484,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/holub",
     "a": "holub domácí",
     "options": [
@@ -495,7 +495,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/husa",
     "a": "husa velká",
     "options": [
@@ -506,7 +506,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/kachna",
     "a": "kachna divoká",
     "options": [
@@ -517,7 +517,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/kane",
     "a": "káně lesní",
     "options": [
@@ -528,7 +528,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/kos_cerny",
     "a": "kos černý",
     "options": [
@@ -539,7 +539,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/kukacka",
     "a": "kukačka obecná",
     "options": [
@@ -550,7 +550,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/labut_velka",
     "a": "labuť velká",
     "options": [
@@ -561,7 +561,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/lednacek",
     "a": "ledňáček říční",
     "options": [
@@ -572,7 +572,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/racek",
     "a": "racek chechtavý",
     "options": [
@@ -583,7 +583,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/sojka_obecna",
     "a": "sojka obecná",
     "options": [
@@ -594,7 +594,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/sokol_stehovavy",
     "a": "sokol stěhovavý",
     "options": [
@@ -605,7 +605,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/sova_palena",
     "a": "sova pálená",
     "options": [
@@ -616,7 +616,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/straka",
     "a": "straka obecná",
     "options": [
@@ -627,7 +627,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/strakapoud",
     "a": "strakapoud velký",
     "options": [
@@ -638,7 +638,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/sykora_konadra",
     "a": "sýkora koňadra",
     "options": [
@@ -649,7 +649,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/sykora_modrinka",
     "a": "sýkora modřinka",
     "options": [
@@ -660,7 +660,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/vlastovka",
     "a": "vlaštovka obecná",
     "options": [
@@ -671,7 +671,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/volavka",
     "a": "volavka popelavá",
     "options": [
@@ -682,7 +682,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/vrabec",
     "a": "vrabec domácí",
     "options": [
@@ -693,7 +693,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/vyr",
     "a": "výr velký",
     "options": [
@@ -704,7 +704,7 @@
     ]
   },
   {
-    "q": "Co je toto plaz nebo obojživelník?",
+    "q": "",
     "img": "prirodniny/colek_obecny",
     "a": "čolek obecný",
     "options": [
@@ -715,7 +715,7 @@
     ]
   },
   {
-    "q": "Co je toto plaz nebo obojživelník?",
+    "q": "",
     "img": "prirodniny/jesterka_obecna",
     "a": "ještěrka obecná",
     "options": [
@@ -726,7 +726,7 @@
     ]
   },
   {
-    "q": "Co je toto plaz nebo obojživelník?",
+    "q": "",
     "img": "prirodniny/jesterka_zivoroda",
     "a": "ještěrka živorodá",
     "options": [
@@ -737,7 +737,7 @@
     ]
   },
   {
-    "q": "Co je toto plaz nebo obojživelník?",
+    "q": "",
     "img": "prirodniny/mlok",
     "a": "mlok skvrnitý",
     "options": [
@@ -748,7 +748,7 @@
     ]
   },
   {
-    "q": "Co je toto plaz nebo obojživelník?",
+    "q": "",
     "img": "prirodniny/ropucha_obecna",
     "a": "ropucha obecná",
     "options": [
@@ -759,7 +759,7 @@
     ]
   },
   {
-    "q": "Co je toto plaz nebo obojživelník?",
+    "q": "",
     "img": "prirodniny/rosnicka_zelena",
     "a": "rosnička zelená",
     "options": [
@@ -770,7 +770,7 @@
     ]
   },
   {
-    "q": "Co je toto plaz nebo obojživelník?",
+    "q": "",
     "img": "prirodniny/skokan_lesni",
     "a": "skokan lesní",
     "options": [
@@ -781,7 +781,7 @@
     ]
   },
   {
-    "q": "Co je toto plaz nebo obojživelník?",
+    "q": "",
     "img": "prirodniny/skokan_zeleny",
     "a": "skokan zelený",
     "options": [
@@ -792,7 +792,7 @@
     ]
   },
   {
-    "q": "Co je toto plaz nebo obojživelník?",
+    "q": "",
     "img": "prirodniny/slepys",
     "a": "slepýš křehký",
     "options": [
@@ -803,7 +803,7 @@
     ]
   },
   {
-    "q": "Co je toto plaz nebo obojživelník?",
+    "q": "",
     "img": "prirodniny/uzovka_obojkova",
     "a": "užovka obojková",
     "options": [
@@ -814,7 +814,7 @@
     ]
   },
   {
-    "q": "Co je toto plaz nebo obojživelník?",
+    "q": "",
     "img": "prirodniny/zmije_obecna",
     "a": "zmije obecná",
     "options": [
@@ -825,7 +825,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/babocka_admiral",
     "a": "babočka admirál",
     "options": [
@@ -836,7 +836,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/babocka_koprivova",
     "a": "babočka kopřivová",
     "options": [
@@ -847,7 +847,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/babocka_pavi_oko",
     "a": "babočka paví oko",
     "options": [
@@ -858,7 +858,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/belasek",
     "a": "bělásek zelný",
     "options": [
@@ -869,7 +869,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/cmelak",
     "a": "čmelák zemní",
     "options": [
@@ -880,7 +880,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/hlemyzd",
     "a": "hlemýžď zahradní",
     "options": [
@@ -891,7 +891,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/chrostik",
     "a": "chrostík velký",
     "options": [
@@ -902,7 +902,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/kliste_obecne",
     "a": "klíště obecné",
     "options": [
@@ -913,7 +913,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/kobylka_zelena",
     "a": "kobylka zelená",
     "options": [
@@ -924,7 +924,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/lykozrout_smrkovy",
     "a": "lýkožrout smrkový",
     "options": [
@@ -935,7 +935,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/pestrenka",
     "a": "pestřenka pruhovaná",
     "options": [
@@ -946,7 +946,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/pijavka",
     "a": "pijavka lékařská",
     "options": [
@@ -957,7 +957,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/plzak",
     "a": "plzák španělský",
     "options": [
@@ -968,7 +968,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/rak_ricni",
     "a": "rak říční",
     "options": [
@@ -979,7 +979,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/rumenice",
     "a": "ruměnice pospolná",
     "options": [
@@ -990,7 +990,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/sekac",
     "a": "sekáč rohatý",
     "options": [
@@ -1001,7 +1001,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/srsen",
     "a": "sršeň obecný",
     "options": [
@@ -1012,7 +1012,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/stonozka",
     "a": "stonožka obecná",
     "options": [
@@ -1023,7 +1023,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/svetluska",
     "a": "světluška obecná",
     "options": [
@@ -1034,7 +1034,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/sidlo",
     "a": "šídlo modré",
     "options": [
@@ -1045,7 +1045,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/vcela_medonosna",
     "a": "včela medonosná",
     "options": [
@@ -1056,7 +1056,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/vosa_obecna",
     "a": "vosa obecná",
     "options": [
@@ -1067,7 +1067,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/chrobak",
     "a": "chrobák obecný",
     "options": [
@@ -1078,7 +1078,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/chroust",
     "a": "chroust obecný",
     "options": [
@@ -1089,7 +1089,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/krizak_obecny",
     "a": "křižák obecný",
     "options": [
@@ -1100,7 +1100,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/mnohonozka",
     "a": "mnohonožka plochá",
     "options": [
@@ -1111,7 +1111,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/motylice",
     "a": "motýlice obecná",
     "options": [
@@ -1122,7 +1122,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/paskovka_kerova",
     "a": "páskovka keřová",
     "options": [
@@ -1133,7 +1133,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/sarance",
     "a": "saranče stěhovavá",
     "options": [
@@ -1144,7 +1144,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/strevlik",
     "a": "střevlík zahradní",
     "options": [
@@ -1155,7 +1155,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/skeble",
     "a": "škeble rybničná",
     "options": [
@@ -1166,7 +1166,7 @@
     ]
   },
   {
-    "q": "Co je toto zvíře?",
+    "q": "",
     "img": "prirodniny/skvor",
     "a": "škvor obecný",
     "options": [
@@ -1177,7 +1177,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/brhlik",
     "a": "brhlík lesní",
     "options": [
@@ -1188,7 +1188,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/cervenka",
     "a": "červenka obecná",
     "options": [
@@ -1199,7 +1199,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/hrdlicka",
     "a": "hrdlička zahradní",
     "options": [
@@ -1210,7 +1210,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/kormoran",
     "a": "kormorán velký",
     "options": [
@@ -1221,7 +1221,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/penkava",
     "a": "pěnkava obecná",
     "options": [
@@ -1232,7 +1232,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/postolka",
     "a": "poštolka obecná",
     "options": [
@@ -1243,7 +1243,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/stehlik",
     "a": "stehlík obecný",
     "options": [
@@ -1254,7 +1254,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/sycek",
     "a": "sýček obecný",
     "options": [
@@ -1265,7 +1265,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/spacek",
     "a": "špaček obecný",
     "options": [
@@ -1276,7 +1276,7 @@
     ]
   },
   {
-    "q": "Co je tento pták?",
+    "q": "",
     "img": "prirodniny/zvonek",
     "a": "zvonek zelený",
     "options": [

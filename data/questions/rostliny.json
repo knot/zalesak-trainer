@@ -1,6 +1,6 @@
 [
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/bez_cerny",
     "a": "bez černý",
     "options": [
@@ -11,7 +11,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/borovice_lesni",
     "a": "borovice lesní",
     "options": [
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/brusnice_boruvka",
     "a": "brusnice borůvka",
     "options": [
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/brusnice_brusinka",
     "a": "brusnice brusinka",
     "options": [
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/brectan_popinavy",
     "a": "břečťan popínavý",
     "options": [
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/briza_belokora",
     "a": "bříza bělokorá",
     "options": [
@@ -66,7 +66,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/buk_lesni",
     "a": "buk lesní",
     "options": [
@@ -77,7 +77,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/dub_letni",
     "a": "dub letní",
     "options": [
@@ -88,7 +88,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/dub_zimni",
     "a": "dub zimní",
     "options": [
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/habr_obecny",
     "a": "habr obecný",
     "options": [
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/hloh",
     "a": "hloh obecný",
     "options": [
@@ -121,7 +121,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/jalovec_obecny",
     "a": "jalovec (obecný)",
     "options": [
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/jasan_ztepily",
     "a": "jasan (ztepilý)",
     "options": [
@@ -143,7 +143,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/javor_babyka",
     "a": "javor babyka",
     "options": [
@@ -154,7 +154,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/javor_klen",
     "a": "javor klen",
     "options": [
@@ -165,7 +165,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/javor_mlec",
     "a": "javor mléč",
     "options": [
@@ -176,7 +176,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/jedle_belokora",
     "a": "jedle bělokorá",
     "options": [
@@ -187,7 +187,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/jerab_cerveny",
     "a": "jeřáb červený",
     "options": [
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/jilm_horsky",
     "a": "jilm (horský)",
     "options": [
@@ -209,7 +209,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/jirovec_madal",
     "a": "jírovec maďal",
     "options": [
@@ -220,7 +220,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/krusina_olsova",
     "a": "krušina olšová",
     "options": [
@@ -231,7 +231,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/lipa_srdcita",
     "a": "lípa srdčitá",
     "options": [
@@ -242,7 +242,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/liska_obecna",
     "a": "líska obecná",
     "options": [
@@ -253,7 +253,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/modrin_opadavy",
     "a": "modřín opadavý",
     "options": [
@@ -264,7 +264,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/olse_lepkava",
     "a": "olše lepkavá",
     "options": [
@@ -275,7 +275,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/ruze_sipkova",
     "a": "růže šípková",
     "options": [
@@ -286,7 +286,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/smrk_ztepily",
     "a": "smrk ztepilý",
     "options": [
@@ -297,7 +297,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/tis_cerveny",
     "a": "tis (červený)",
     "options": [
@@ -308,7 +308,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/topol_cerny",
     "a": "topol (černý)",
     "options": [
@@ -319,7 +319,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/trnovnik_akat",
     "a": "trnovník akát",
     "options": [
@@ -330,7 +330,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/vrba_bila",
     "a": "vrba bílá",
     "options": [
@@ -341,7 +341,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/vres_obecny",
     "a": "vřes (obecný)",
     "options": [
@@ -352,7 +352,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/blatouch_bahenni",
     "a": "blatouch (bahenní)",
     "options": [
@@ -363,7 +363,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/bledule_jarni",
     "a": "bledule (jarní)",
     "options": [
@@ -374,7 +374,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/bodlak_obecny",
     "a": "bodlák (obecný)",
     "options": [
@@ -385,7 +385,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/bolsevnik_velkolepy",
     "a": "bolševník (velkolepý",
     "options": [
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/cekanka_obecna",
     "a": "čekanka (obecná)",
     "options": [
@@ -407,7 +407,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/devetsil_bily",
     "a": "devětsil (bílý)",
     "options": [
@@ -418,7 +418,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/divizna_velkokveta",
     "a": "divizna (velkokvětá)",
     "options": [
@@ -429,7 +429,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/hermanek_pravy",
     "a": "heřmánek (pravý)",
     "options": [
@@ -440,7 +440,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/hluchavka_bila",
     "a": "hluchavka (bílá)",
     "options": [
@@ -451,7 +451,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/hrachor_lucni",
     "a": "Hrachor (luční)",
     "options": [
@@ -462,7 +462,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/chmel_otacivy",
     "a": "Chmel (otáčivý)",
     "options": [
@@ -473,7 +473,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/chrpa_modra",
     "a": "Chrpa (modrá)",
     "options": [
@@ -484,7 +484,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/jetel_plazivy",
     "a": "jetel (plazivý)",
     "options": [
@@ -495,7 +495,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/jitrocel_kopinaty",
     "a": "jitrocel (kopinatý)",
     "options": [
@@ -506,7 +506,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/kakost_lucni",
     "a": "kakost (luční)",
     "options": [
@@ -517,7 +517,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/kaprad_samec",
     "a": "kapraď (samec)",
     "options": [
@@ -528,7 +528,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/kokoska_pastusi",
     "a": "kokoška pastuší",
     "options": [
@@ -539,7 +539,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/kontryhel_obecny",
     "a": "kontryhel (obecný)",
     "options": [
@@ -550,7 +550,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/konvalinka_vonna",
     "a": "konvalinka vonná",
     "options": [
@@ -561,7 +561,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/kopriva_dvoudoma",
     "a": "kopřiva dvoudomá",
     "options": [
@@ -572,7 +572,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/kostival_lekarsky",
     "a": "kostival lékařský",
     "options": [
@@ -583,7 +583,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/kridlatka_japonska",
     "a": "křídlatka (japonská)",
     "options": [
@@ -594,7 +594,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/leknin",
     "a": "leknín bílý",
     "options": [
@@ -605,7 +605,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/lopuch_plstnaty",
     "a": "lopuch (plstnatý)",
     "options": [
@@ -616,7 +616,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/mata_dlouholista",
     "a": "máta (dlouholistá)",
     "options": [
@@ -627,7 +627,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/materidouska_vejcita",
     "a": "mateřídouška (vejčitá)",
     "options": [
@@ -638,7 +638,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/netykavka_malokveta",
     "a": "netýkavka (malokvětá)",
     "options": [
@@ -649,7 +649,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/orobinec_uzkolisty",
     "a": "orobinec úzkolistý",
     "options": [
@@ -660,7 +660,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/pelynek_cernobyl",
     "a": "pelyněk (černobýl)",
     "options": [
@@ -671,7 +671,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/podbel_lekarsky",
     "a": "podběl (lékařský)",
     "options": [
@@ -682,7 +682,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/pomnenka_lesni",
     "a": "pomněnka lesní",
     "options": [
@@ -693,7 +693,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/prvosenka_jarni",
     "a": "prvosenka jarní",
     "options": [
@@ -704,7 +704,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/preslicka_rolni",
     "a": "přeslička rolní",
     "options": [
@@ -715,7 +715,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/rebricek_obecny",
     "a": "řebříček (obecný)",
     "options": [
@@ -726,7 +726,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/sasanka_hajni",
     "a": "sasanka hajní",
     "options": [
@@ -737,7 +737,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/sedmikraska_chudobka",
     "a": "sedmikráska chudobka",
     "options": [
@@ -748,7 +748,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/smetanka_lekarska",
     "a": "smetanka lékařská",
     "options": [
@@ -759,7 +759,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/snezenka_podsneznik",
     "a": "sněženka (podsněžník)",
     "options": [
@@ -770,7 +770,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/srha_lalocnata",
     "a": "srha (laločnatá)",
     "options": [
@@ -781,7 +781,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/starcek_obecny",
     "a": "starček (obecný)",
     "options": [
@@ -792,7 +792,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/svizel_pritula",
     "a": "svízel (přítula)",
     "options": [
@@ -803,7 +803,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/stavel_kysely",
     "a": "šťavel (kyselý)",
     "options": [
@@ -814,7 +814,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/stovik_kysely",
     "a": "šťovík (kyselý)",
     "options": [
@@ -825,7 +825,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/trezalka_teckovana",
     "a": "třezalka (tečkovaná)",
     "options": [
@@ -836,7 +836,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/violka_vonna",
     "a": "violka vonná",
     "options": [
@@ -847,7 +847,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/vlci_bob_malolisty",
     "a": "vlčí bob (malolistý)",
     "options": [
@@ -858,7 +858,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/vlci_mak",
     "a": "vlčí mák",
     "options": [
@@ -869,7 +869,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/vrani_oko_ctyrliste",
     "a": "vraní oko čtyřlisté",
     "options": [
@@ -880,7 +880,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/vrbka_uzkolista",
     "a": "vrbka úzkolistá",
     "options": [
@@ -891,7 +891,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/babka_hrib_zlutomasy",
     "a": "babka (hřib žlutomasý)",
     "options": [
@@ -902,7 +902,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/bedla_vysoka",
     "a": "bedla vysoká",
     "options": [
@@ -913,7 +913,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/hadovka_smrduta",
     "a": "hadovka smrdutá",
     "options": [
@@ -924,7 +924,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/hnojnik_obecny",
     "a": "hnojník obecný",
     "options": [
@@ -935,7 +935,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/holubinka_jahodova",
     "a": "holubinka jahodová",
     "options": [
@@ -946,7 +946,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/hrib_kovar",
     "a": "hřib kovář",
     "options": [
@@ -957,7 +957,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/hrib_satan",
     "a": "hřib satan",
     "options": [
@@ -968,7 +968,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/hrib_smrkovy",
     "a": "hřib smrkový",
     "options": [
@@ -979,7 +979,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/klouzek_slicny",
     "a": "klouzek (sličný)",
     "options": [
@@ -990,7 +990,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/kotrc",
     "a": "kotrč kadeřavý",
     "options": [
@@ -1001,7 +1001,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/kozak_brezovy",
     "a": "kozák (březový)",
     "options": [
@@ -1012,7 +1012,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/kremenac_osikovy",
     "a": "křemenáč osikový",
     "options": [
@@ -1023,7 +1023,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/muchomurka_cervena",
     "a": "muchomůrka červená",
     "options": [
@@ -1034,7 +1034,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/muchomurka_ruzovka",
     "a": "muchomůrka růžovka",
     "options": [
@@ -1045,7 +1045,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/muchomurka_zelena",
     "a": "muchomůrka zelená",
     "options": [
@@ -1056,7 +1056,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/ryzec_kravsky",
     "a": "ryzec kravský",
     "options": [
@@ -1067,7 +1067,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/ryzec_pravy",
     "a": "ryzec pravý",
     "options": [
@@ -1078,7 +1078,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/vaclavka_obecna",
     "a": "václavka obecná",
     "options": [
@@ -1089,7 +1089,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/zampion_pecarka_polni",
     "a": "žampion (pečárka polní)",
     "options": [
@@ -1100,7 +1100,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/douglaska_tisolista_strom",
     "a": "douglaska (tisolistá) - strom",
     "options": [
@@ -1111,7 +1111,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/bez_hroznaty",
     "a": "bez hroznatý",
     "options": [
@@ -1122,7 +1122,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/brslen_evropsky",
     "a": "brslen (evropský)",
     "options": [
@@ -1133,7 +1133,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/ostruzinik_krovity",
     "a": "ostružiník (křovitý)",
     "options": [
@@ -1144,7 +1144,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/lykovec_jedovaty",
     "a": "lýkovec jedovatý",
     "options": [
@@ -1155,7 +1155,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/kastanovnik_sety",
     "a": "kaštanovník (setý)",
     "options": [
@@ -1166,7 +1166,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/pajasan_zlaznaty",
     "a": "pajasan (žláznatý)",
     "options": [
@@ -1177,7 +1177,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/zerav_thuje",
     "a": "zerav (thůje)",
     "options": [
@@ -1188,7 +1188,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/platan_javotolisty",
     "a": "platan (javotolistý)",
     "options": [
@@ -1199,7 +1199,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/stremcha_obecna_kvet",
     "a": "střemcha (obecná) - květ",
     "options": [
@@ -1210,7 +1210,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/bojinek_lucni",
     "a": "bojínek (luční)",
     "options": [
@@ -1221,7 +1221,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/cernys_hajni",
     "a": "černýš (hajní)",
     "options": [
@@ -1232,7 +1232,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/durman_obecny",
     "a": "durman (obecný)",
     "options": [
@@ -1243,7 +1243,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/jaternik_podleska",
     "a": "jaterník (podléška)",
     "options": [
@@ -1254,7 +1254,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/koniklec_lucni",
     "a": "koniklec (luční)",
     "options": [
@@ -1265,7 +1265,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/lebeda_rozkladita",
     "a": "lebeda (rozkladitá)",
     "options": [
@@ -1276,7 +1276,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/lnice_kvetel",
     "a": "lnice (květel)",
     "options": [
@@ -1287,7 +1287,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/locika_kompasova",
     "a": "locika (kompasová)",
     "options": [
@@ -1298,7 +1298,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/mochna_husi",
     "a": "mochna (husí)",
     "options": [
@@ -1309,7 +1309,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/naprstnik_velkokvety",
     "a": "náprstník (velkokvětý)",
     "options": [
@@ -1320,7 +1320,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/ostrice_obecna",
     "a": "ostřice (obecná)",
     "options": [
@@ -1331,7 +1331,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/pryskyrnik_prudky",
     "a": "pryskyřník (prudký)",
     "options": [
@@ -1342,7 +1342,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/prysec_kolovratec",
     "a": "pryšec (kolovratec)",
     "options": [
@@ -1353,7 +1353,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/ptacinec_prostredni",
     "a": "ptačinec(prostřední)",
     "options": [
@@ -1364,7 +1364,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/pupava_bezlodyzna",
     "a": "pupava (bezlodyžná)",
     "options": [
@@ -1375,7 +1375,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/rozrazil_lekarsky",
     "a": "rozrazil (lékařský)",
     "options": [
@@ -1386,7 +1386,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/rulik_zlomocny",
     "a": "rulík (zlomocný)",
     "options": [
@@ -1397,7 +1397,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/stulik_zluty",
     "a": "stulík (žlutý)",
     "options": [
@@ -1408,7 +1408,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/vlastovicnik_vetsi",
     "a": "vlaštovičník (větší)",
     "options": [
@@ -1419,7 +1419,7 @@
     ]
   },
   {
-    "q": "Co je tato rostlina?",
+    "q": "",
     "img": "rostliny/vratic_obecny",
     "a": "vratič (obecný)",
     "options": [
@@ -1430,7 +1430,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/cechratka_podvinuta",
     "a": "čechratka podvinutá",
     "options": [
@@ -1441,7 +1441,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/ciruvka_fialova",
     "a": "čirůvka fialová",
     "options": [
@@ -1452,7 +1452,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/ciruvka_majovka",
     "a": "čirůvka májovka",
     "options": [
@@ -1463,7 +1463,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/hliva_ustricna",
     "a": "hlíva ústřičná",
     "options": [
@@ -1474,7 +1474,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/holubinka_hlinozluta",
     "a": "holubinka hlínožlutá",
     "options": [
@@ -1485,7 +1485,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/holubinka_namodrala",
     "a": "holubinka namodralá",
     "options": [
@@ -1496,7 +1496,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/holubinka_nazelenala",
     "a": "holubinka nazelenalá",
     "options": [
@@ -1507,7 +1507,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/pychavka_obecna",
     "a": "Pýchavka (obecná)",
     "options": [
@@ -1518,7 +1518,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/suchohrib_hnedy",
     "a": "suchohřib hnědý",
     "options": [
@@ -1529,7 +1529,7 @@
     ]
   },
   {
-    "q": "Co je tato houba?",
+    "q": "",
     "img": "rostliny/spicka_obecna",
     "a": "špička obecná",
     "options": [

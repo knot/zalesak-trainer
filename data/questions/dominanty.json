@@ -1,6 +1,6 @@
 [
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/bouzo_v_hrad",
     "a": "Bouzov",
     "options": [
@@ -11,7 +11,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/brno_spilberk",
     "a": "Brno – Špilberk",
     "options": [
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/brno_vila_tugendhat",
     "a": "Vila Tugendhat",
     "options": [
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/buchlo_v_hrad",
     "a": "Buchlov",
     "options": [
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/ceske_budejovice_namesti_s_cerno_u_vezi",
     "a": "České Budějovice – Černá věž",
     "options": [
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/decinsky_snezni_k_hora_s_rozhledno_u",
     "a": "Děčínský Sněžník",
     "options": [
@@ -66,7 +66,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/dlouhe_strane_horni_vodni_nadrz",
     "a": "Dlouhé stráně",
     "options": [
@@ -77,7 +77,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/domazlice_namesti_s_valcovo_u_sikmo_u_vezi",
     "a": "Domažlice – šikmá věž",
     "options": [
@@ -88,7 +88,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/hluboka_nad_vltavo_u_zamek",
     "a": "Hluboká nad Vltavou",
     "options": [
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/cheb_spalicek_architek_tura",
     "a": "Cheb – Špalíček",
     "options": [
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/jested",
     "a": "Ještěd",
     "options": [
@@ -121,7 +121,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/karlstejn_hrad",
     "a": "Karlštejn",
     "options": [
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/kasperk_zriceni_na_hradu",
     "a": "Kašperk",
     "options": [
@@ -143,7 +143,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/konopiste_zamek",
     "a": "Konopiště",
     "options": [
@@ -154,7 +154,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/kost_hrad",
     "a": "Kost",
     "options": [
@@ -165,7 +165,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/kromeriz_kvetna_zahrada",
     "a": "Kroměříž – Květná zahrada",
     "options": [
@@ -176,7 +176,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/kuks_hospital",
     "a": "Kuks",
     "options": [
@@ -187,7 +187,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/kuneticka_hora_hrad",
     "a": "Kunětická hora",
     "options": [
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/kutna_hora_chram_sv_barbory",
     "a": "Kutná Hora – chrám sv. Barbory",
     "options": [
@@ -209,7 +209,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/lany_zamek",
     "a": "Lány",
     "options": [
@@ -220,7 +220,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/lednicko_valticky_areal_minaret_tri_gracie_zamek_lednice_s_kapli",
     "a": "Lednicko-valtický areál",
     "options": [
@@ -231,7 +231,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/lednice_zamek",
     "a": "Lednice",
     "options": [
@@ -242,7 +242,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/lysa_hora",
     "a": "Lysá hora",
     "options": [
@@ -253,7 +253,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/olomouc_radnice_s_orlojem",
     "a": "Olomouc – radnice s orlojem",
     "options": [
@@ -264,7 +264,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/ostrava_vitkovicke_pece",
     "a": "Vítkovické pece",
     "options": [
@@ -275,7 +275,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/panska_skala_u_kamenickeh_o_senova_skalni_utvar",
     "a": "Panská skála",
     "options": [
@@ -286,7 +286,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/pisek_kamenny_most",
     "a": "Písek – kamenný most",
     "options": [
@@ -297,7 +297,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/plumlo_v_zamek",
     "a": "Plumlov",
     "options": [
@@ -308,7 +308,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/plzen_chram_sv_bartolome_je",
     "a": "Plzeň – chrám sv. Bartoloměje",
     "options": [
@@ -319,7 +319,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/plzen_velka_synagog_a",
     "a": "Plzeň – Velká synagoga",
     "options": [
@@ -330,7 +330,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/praded_hora_vysilac",
     "a": "Praděd",
     "options": [
@@ -341,7 +341,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/praha_chram_sv_vita",
     "a": "Chrám sv. Víta",
     "options": [
@@ -352,7 +352,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/praha_karlu_v_most",
     "a": "Karlův most",
     "options": [
@@ -363,7 +363,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/praha_narodni_divadlo",
     "a": "Národní divadlo",
     "options": [
@@ -374,7 +374,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/praha_petrinska_rozhled_na",
     "a": "Petřínská rozhledna",
     "options": [
@@ -385,7 +385,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/praha_tyrsuvdum",
     "a": "Tyršův dům",
     "options": [
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/praha_vysehrad",
     "a": "Vyšehrad",
     "options": [
@@ -407,7 +407,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/prachovske_skaly_skalni_utvary",
     "a": "Prachovské skály",
     "options": [
@@ -418,7 +418,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/pravcicka_bra_na_skalni_utvar",
     "a": "Pravčická brána",
     "options": [
@@ -429,7 +429,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/rozno_v_pod_radhostem_skanzen",
     "a": "Rožnov pod Radhoštěm",
     "options": [
@@ -440,7 +440,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/snezka_hora",
     "a": "Sněžka",
     "options": [
@@ -451,7 +451,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/soos",
     "a": "SOOS",
     "options": [
@@ -462,7 +462,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/sviho_v_vodni_hrad",
     "a": "Švihov",
     "options": [
@@ -473,7 +473,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/telc_namesti_se_zamkem",
     "a": "Telč",
     "options": [
@@ -484,7 +484,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/trosky",
     "a": "Trosky",
     "options": [
@@ -495,7 +495,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/velky_blani_k_rozhled_na",
     "a": "Velký Blaník",
     "options": [
@@ -506,7 +506,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/zviko_v_hrad",
     "a": "Zvíkov",
     "options": [
@@ -517,7 +517,7 @@
     ]
   },
   {
-    "q": "Jak se jmenuje toto místo nebo dominanta?",
+    "q": "",
     "img": "dominanty/zdar_nad_sazavo_u_poutni_areal_zelena_hora",
     "a": "Zelená hora",
     "options": [

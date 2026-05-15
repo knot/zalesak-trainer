@@ -453,7 +453,9 @@ function renderQuestion() {
 
   const catKey = getCat(q);
   document.getElementById('q-category').textContent = CAT_LABELS[catKey] || '';
-  document.getElementById('q-text').textContent     = q.q;
+  const qTextEl = document.getElementById('q-text');
+  qTextEl.textContent    = q.q;
+  qTextEl.style.display  = q.q ? '' : 'none';
 
   const imgEl = document.getElementById('q-image');
   if (q.img) {
