@@ -2,12 +2,12 @@
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/bouzo_v_hrad",
-    "a": "Bouzo v – hrad",
+    "a": "Bouzov",
     "options": [
-      "Zvíko v – hrad",
-      "Pravčická brá na – skalní útvar",
-      "Bouzo v – hrad",
-      "Praděd – hora, vysílač"
+      "Zvíkov",
+      "Pravčická brána",
+      "Bouzov",
+      "Praděd"
     ]
   },
   {
@@ -15,153 +15,153 @@
     "img": "dominanty/brno_spilberk",
     "a": "Brno – Špilberk",
     "options": [
-      "Telč – náměstí se zámkem",
-      "Konopiště – zámek",
-      "Dlouhé stráně – horní vodní nádrž",
+      "Telč",
+      "Konopiště",
+      "Dlouhé stráně",
       "Brno – Špilberk"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/brno_vila_tugendhat",
-    "a": "Brno – vila Tugendhat",
+    "a": "Vila Tugendhat",
     "options": [
-      "Cheb – Špalíček (architek tura)",
+      "Cheb – Špalíček",
       "Písek – kamenný most",
-      "Panská skála u Kamenickéh o Šenova – skalní útvar",
-      "Brno – vila Tugendhat"
+      "Panská skála",
+      "Vila Tugendhat"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/buchlo_v_hrad",
-    "a": "Buchlo v – hrad",
+    "a": "Buchlov",
     "options": [
-      "Ostrava – Vítkovické pece",
+      "Vítkovické pece",
       "Křivoklát",
-      "Buchlo v – hrad",
-      "Karlštejn – hrad"
+      "Buchlov",
+      "Karlštejn"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/ceske_budejovice_namesti_s_cerno_u_vezi",
-    "a": "České Budějovice – náměstí s černo u věží",
+    "a": "České Budějovice – Černá věž",
     "options": [
       "Brno – Špilberk",
-      "České Budějovice – náměstí s černo u věží",
-      "Praha – Vyšehrad",
-      "Sv. Hostýn – poutní kostel"
+      "České Budějovice – Černá věž",
+      "Vyšehrad",
+      "Sv. Hostýn"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/decinsky_snezni_k_hora_s_rozhledno_u",
-    "a": "Děčínský Sněžní k – hora s rozhledno u",
+    "a": "Děčínský Sněžník",
     "options": [
-      "Brno – vila Tugendhat",
-      "Praha – Karlů v most",
-      "Děčínský Sněžní k – hora s rozhledno u",
-      "Pravčická brá na – skalní útvar"
+      "Vila Tugendhat",
+      "Karlův most",
+      "Děčínský Sněžník",
+      "Pravčická brána"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/dlouhe_strane_horni_vodni_nadrz",
-    "a": "Dlouhé stráně – horní vodní nádrž",
+    "a": "Dlouhé stráně",
     "options": [
-      "Dlouhé stráně – horní vodní nádrž",
-      "Sv. Hostýn – poutní kostel",
-      "Praha – chrám sv. Víta",
-      "Sněžka – hora"
+      "Dlouhé stráně",
+      "Sv. Hostýn",
+      "Chrám sv. Víta",
+      "Sněžka"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/domazlice_namesti_s_valcovo_u_sikmo_u_vezi",
-    "a": "Domažlice – náměstí s válcovo u šikmo u věží",
+    "a": "Domažlice – šikmá věž",
     "options": [
-      "Žďár nad Sázavo u – poutní areál Zelená hora",
-      "Kuks – Hospital",
-      "Praha – Národní divadlo",
-      "Domažlice – náměstí s válcovo u šikmo u věží"
+      "Zelená hora",
+      "Kuks",
+      "Národní divadlo",
+      "Domažlice – šikmá věž"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/hluboka_nad_vltavo_u_zamek",
-    "a": "Hluboká nad Vltavo u – zámek",
+    "a": "Hluboká nad Vltavou",
     "options": [
-      "Litomyšl – zámek",
-      "Plzeň – chrám sv. Bartolomě je",
-      "Praha – Petřínská rozhled na",
-      "Hluboká nad Vltavo u – zámek"
+      "Litomyšl",
+      "Plzeň – chrám sv. Bartoloměje",
+      "Petřínská rozhledna",
+      "Hluboká nad Vltavou"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/cheb_spalicek_architek_tura",
-    "a": "Cheb – Špalíček (architek tura)",
+    "a": "Cheb – Špalíček",
     "options": [
-      "Cheb – Špalíček (architek tura)",
-      "Lednicko – valtický areál – minaret, Tři grácie, zámek Lednice s kaplí",
-      "České Budějovice – náměstí s černo u věží",
-      "Macocha – propast"
+      "Cheb – Špalíček",
+      "Lednicko-valtický areál",
+      "České Budějovice – Černá věž",
+      "Macocha"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/kacina_zamek",
-    "a": "Kačina – Zámek",
+    "a": "Kačina",
     "options": [
-      "Kunětická Hora – hrad",
-      "Praha – Petřínská rozhled na",
-      "Kačina – Zámek",
-      "Panská skála u Kamenickéh o Šenova – skalní útvar"
+      "Kunětická hora",
+      "Petřínská rozhledna",
+      "Kačina",
+      "Panská skála"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/karlstejn_hrad",
-    "a": "Karlštejn – hrad",
+    "a": "Karlštejn",
     "options": [
-      "Karlštejn – hrad",
-      "Pravčická brá na – skalní útvar",
-      "Praha – Petřínská rozhled na",
+      "Karlštejn",
+      "Pravčická brána",
+      "Petřínská rozhledna",
       "Křivoklát"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/kasperk_zriceni_na_hradu",
-    "a": "Kašperk – zříceni na hradu",
+    "a": "Kašperk",
     "options": [
-      "Kašperk – zříceni na hradu",
-      "Plumlo v – zámek",
-      "Konopiště – zámek",
-      "Kuks – Hospital"
+      "Kašperk",
+      "Plumlov",
+      "Konopiště",
+      "Kuks"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/konopiste_zamek",
-    "a": "Konopiště – zámek",
+    "a": "Konopiště",
     "options": [
-      "Sv. Hostýn – poutní kostel",
-      "Macocha – propast",
-      "Konopiště – zámek",
-      "Velký Blaní k – rozhled na"
+      "Sv. Hostýn",
+      "Macocha",
+      "Konopiště",
+      "Velký Blaník"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/kost_hrad",
-    "a": "Kost – hrad",
+    "a": "Kost",
     "options": [
-      "Kost – hrad",
-      "Litomyšl – zámek",
-      "Praha – Karlů v most",
-      "Praha – Národní divadlo"
+      "Kost",
+      "Litomyšl",
+      "Karlův most",
+      "Národní divadlo"
     ]
   },
   {
@@ -171,29 +171,29 @@
     "options": [
       "Křivoklát",
       "Brno – Špilberk",
-      "Kost – hrad",
-      "Ostrava – Vítkovické pece"
+      "Kost",
+      "Vítkovické pece"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/kuks_hospital",
-    "a": "Kuks – Hospital",
+    "a": "Kuks",
     "options": [
-      "Kuks – Hospital",
-      "Konopiště – zámek",
-      "Praha – Tyršůvdům",
-      "Litomyšl – zámek"
+      "Kuks",
+      "Konopiště",
+      "Tyršův dům",
+      "Litomyšl"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/kuneticka_hora_hrad",
-    "a": "Kunětická Hora – hrad",
+    "a": "Kunětická hora",
     "options": [
-      "Kunětická Hora – hrad",
-      "Plzeň – Velká synagog a",
-      "Konopiště – zámek",
+      "Kunětická hora",
+      "Plzeň – Velká synagoga",
+      "Konopiště",
       "Křivoklát"
     ]
   },
@@ -202,54 +202,54 @@
     "img": "dominanty/kutna_hora_chram_sv_barbory",
     "a": "Kutná Hora – chrám sv. Barbory",
     "options": [
-      "Kuks – Hospital",
+      "Kuks",
       "Kutná Hora – chrám sv. Barbory",
-      "Telč – náměstí se zámkem",
-      "Zvíko v – hrad"
+      "Telč",
+      "Zvíkov"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/lany_zamek",
-    "a": "Lány – zámek",
+    "a": "Lány",
     "options": [
-      "Praha – Národní divadlo",
-      "Praha – Tyršůvdům",
-      "Lány – zámek",
-      "Plzeň – Velká synagog a"
+      "Národní divadlo",
+      "Tyršův dům",
+      "Lány",
+      "Plzeň – Velká synagoga"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/lednicko_valticky_areal_minaret_tri_gracie_zamek_lednice_s_kapli",
-    "a": "Lednicko – valtický areál – minaret, Tři grácie, zámek Lednice s kaplí",
+    "a": "Lednicko-valtický areál",
     "options": [
-      "Lednicko – valtický areál – minaret, Tři grácie, zámek Lednice s kaplí",
-      "Bouzo v – hrad",
-      "Kačina – Zámek",
-      "Praha – Národní divadlo"
+      "Lednicko-valtický areál",
+      "Bouzov",
+      "Kačina",
+      "Národní divadlo"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/litomysl_zamek",
-    "a": "Litomyšl – zámek",
+    "a": "Litomyšl",
     "options": [
-      "Plzeň – Velká synagog a",
-      "Kačina – Zámek",
-      "Domažlice – náměstí s válcovo u šikmo u věží",
-      "Litomyšl – zámek"
+      "Plzeň – Velká synagoga",
+      "Kačina",
+      "Domažlice – šikmá věž",
+      "Litomyšl"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/macocha_propast",
-    "a": "Macocha – propast",
+    "a": "Macocha",
     "options": [
       "Písek – kamenný most",
-      "Hluboká nad Vltavo u – zámek",
-      "Macocha – propast",
-      "Kuks – Hospital"
+      "Hluboká nad Vltavou",
+      "Macocha",
+      "Kuks"
     ]
   },
   {
@@ -257,32 +257,32 @@
     "img": "dominanty/olomouc_radnice_s_orlojem",
     "a": "Olomouc – radnice s orlojem",
     "options": [
-      "Kunětická Hora – hrad",
-      "Sněžka – hora",
-      "Dlouhé stráně – horní vodní nádrž",
+      "Kunětická hora",
+      "Sněžka",
+      "Dlouhé stráně",
       "Olomouc – radnice s orlojem"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/ostrava_vitkovicke_pece",
-    "a": "Ostrava – Vítkovické pece",
+    "a": "Vítkovické pece",
     "options": [
-      "Pravčická brá na – skalní útvar",
-      "Ostrava – Vítkovické pece",
-      "Rožno v pod Radhoštěm – skanzen",
-      "Lány – zámek"
+      "Pravčická brána",
+      "Vítkovické pece",
+      "Rožnov pod Radhoštěm",
+      "Lány"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/panska_skala_u_kamenickeh_o_senova_skalni_utvar",
-    "a": "Panská skála u Kamenickéh o Šenova – skalní útvar",
+    "a": "Panská skála",
     "options": [
       "Olomouc – radnice s orlojem",
-      "Panská skála u Kamenickéh o Šenova – skalní útvar",
-      "Praha – Tyršůvdům",
-      "Kost – hrad"
+      "Panská skála",
+      "Tyršův dům",
+      "Kost"
     ]
   },
   {
@@ -290,241 +290,241 @@
     "img": "dominanty/pisek_kamenny_most",
     "a": "Písek – kamenný most",
     "options": [
-      "Děčínský Sněžní k – hora s rozhledno u",
-      "Praha – chrám sv. Víta",
+      "Děčínský Sněžník",
+      "Chrám sv. Víta",
       "Písek – kamenný most",
-      "Praha – Karlů v most"
+      "Karlův most"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/plumlo_v_zamek",
-    "a": "Plumlo v – zámek",
+    "a": "Plumlov",
     "options": [
-      "Telč – náměstí se zámkem",
-      "Domažlice – náměstí s válcovo u šikmo u věží",
-      "Praha – Národní divadlo",
-      "Plumlo v – zámek"
+      "Telč",
+      "Domažlice – šikmá věž",
+      "Národní divadlo",
+      "Plumlov"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/plzen_chram_sv_bartolome_je",
-    "a": "Plzeň – chrám sv. Bartolomě je",
+    "a": "Plzeň – chrám sv. Bartoloměje",
     "options": [
-      "Cheb – Špalíček (architek tura)",
-      "Plzeň – chrám sv. Bartolomě je",
-      "Děčínský Sněžní k – hora s rozhledno u",
-      "Karlštejn – hrad"
+      "Cheb – Špalíček",
+      "Plzeň – chrám sv. Bartoloměje",
+      "Děčínský Sněžník",
+      "Karlštejn"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/plzen_velka_synagog_a",
-    "a": "Plzeň – Velká synagog a",
+    "a": "Plzeň – Velká synagoga",
     "options": [
-      "Plzeň – Velká synagog a",
-      "Plumlo v – zámek",
-      "Velký Blaní k – rozhled na",
-      "Lány – zámek"
+      "Plzeň – Velká synagoga",
+      "Plumlov",
+      "Velký Blaník",
+      "Lány"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/praded_hora_vysilac",
-    "a": "Praděd – hora, vysílač",
+    "a": "Praděd",
     "options": [
-      "Karlštejn – hrad",
-      "Dlouhé stráně – horní vodní nádrž",
-      "Praděd – hora, vysílač",
-      "Sv. Hostýn – poutní kostel"
+      "Karlštejn",
+      "Dlouhé stráně",
+      "Praděd",
+      "Sv. Hostýn"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/praha_chram_sv_vita",
-    "a": "Praha – chrám sv. Víta",
+    "a": "Chrám sv. Víta",
     "options": [
-      "Karlštejn – hrad",
-      "Praha – Národní divadlo",
-      "Praha – Petřínská rozhled na",
-      "Praha – chrám sv. Víta"
+      "Karlštejn",
+      "Národní divadlo",
+      "Petřínská rozhledna",
+      "Chrám sv. Víta"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/praha_karlu_v_most",
-    "a": "Praha – Karlů v most",
+    "a": "Karlův most",
     "options": [
-      "Sv. Hostýn – poutní kostel",
-      "Praha – Národní divadlo",
+      "Sv. Hostýn",
+      "Národní divadlo",
       "Olomouc – radnice s orlojem",
-      "Praha – Karlů v most"
+      "Karlův most"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/praha_narodni_divadlo",
-    "a": "Praha – Národní divadlo",
+    "a": "Národní divadlo",
     "options": [
-      "Konopiště – zámek",
-      "Praha – Národní divadlo",
-      "Ostrava – Vítkovické pece",
-      "Litomyšl – zámek"
+      "Konopiště",
+      "Národní divadlo",
+      "Vítkovické pece",
+      "Litomyšl"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/praha_petrinska_rozhled_na",
-    "a": "Praha – Petřínská rozhled na",
+    "a": "Petřínská rozhledna",
     "options": [
-      "Prachovské skály – skalní útvary",
-      "Lednicko – valtický areál – minaret, Tři grácie, zámek Lednice s kaplí",
-      "Kunětická Hora – hrad",
-      "Praha – Petřínská rozhled na"
+      "Prachovské skály",
+      "Lednicko-valtický areál",
+      "Kunětická hora",
+      "Petřínská rozhledna"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/praha_tyrsuvdum",
-    "a": "Praha – Tyršůvdům",
+    "a": "Tyršův dům",
     "options": [
-      "Panská skála u Kamenickéh o Šenova – skalní útvar",
-      "Pravčická brá na – skalní útvar",
-      "Lány – zámek",
-      "Praha – Tyršůvdům"
+      "Panská skála",
+      "Pravčická brána",
+      "Lány",
+      "Tyršův dům"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/praha_vysehrad",
-    "a": "Praha – Vyšehrad",
+    "a": "Vyšehrad",
     "options": [
-      "Praděd – hora, vysílač",
-      "Plzeň – chrám sv. Bartolomě je",
-      "Praha – Vyšehrad",
-      "Rožno v pod Radhoštěm – skanzen"
+      "Praděd",
+      "Plzeň – chrám sv. Bartoloměje",
+      "Vyšehrad",
+      "Rožnov pod Radhoštěm"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/prachovske_skaly_skalni_utvary",
-    "a": "Prachovské skály – skalní útvary",
+    "a": "Prachovské skály",
     "options": [
-      "Prachovské skály – skalní útvary",
-      "Plzeň – Velká synagog a",
-      "Bouzo v – hrad",
-      "Praha – Petřínská rozhled na"
+      "Prachovské skály",
+      "Plzeň – Velká synagoga",
+      "Bouzov",
+      "Petřínská rozhledna"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/pravcicka_bra_na_skalni_utvar",
-    "a": "Pravčická brá na – skalní útvar",
+    "a": "Pravčická brána",
     "options": [
-      "Lednicko – valtický areál – minaret, Tři grácie, zámek Lednice s kaplí",
-      "Prachovské skály – skalní útvary",
-      "Pravčická brá na – skalní útvar",
-      "Karlštejn – hrad"
+      "Lednicko-valtický areál",
+      "Prachovské skály",
+      "Pravčická brána",
+      "Karlštejn"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/rozno_v_pod_radhostem_skanzen",
-    "a": "Rožno v pod Radhoštěm – skanzen",
+    "a": "Rožnov pod Radhoštěm",
     "options": [
-      "Rožno v pod Radhoštěm – skanzen",
-      "Plumlo v – zámek",
-      "Macocha – propast",
-      "Kunětická Hora – hrad"
+      "Rožnov pod Radhoštěm",
+      "Plumlov",
+      "Macocha",
+      "Kunětická hora"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/snezka_hora",
-    "a": "Sněžka – hora",
+    "a": "Sněžka",
     "options": [
-      "Třebíč – bazilik a",
-      "Sněžka – hora",
-      "Kačina – Zámek",
-      "Rožno v pod Radhoštěm – skanzen"
+      "Třebíč – bazilika",
+      "Sněžka",
+      "Kačina",
+      "Rožnov pod Radhoštěm"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/sv_hostyn_poutni_kostel",
-    "a": "Sv. Hostýn – poutní kostel",
+    "a": "Sv. Hostýn",
     "options": [
-      "Telč – náměstí se zámkem",
-      "Zvíko v – hrad",
-      "Praha – Petřínská rozhled na",
-      "Sv. Hostýn – poutní kostel"
+      "Telč",
+      "Zvíkov",
+      "Petřínská rozhledna",
+      "Sv. Hostýn"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/sviho_v_vodni_hrad",
-    "a": "Šviho v – vodní hrad",
+    "a": "Švihov",
     "options": [
-      "Šviho v – vodní hrad",
-      "Sv. Hostýn – poutní kostel",
-      "Kačina – Zámek",
-      "Praděd – hora, vysílač"
+      "Švihov",
+      "Sv. Hostýn",
+      "Kačina",
+      "Praděd"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/telc_namesti_se_zamkem",
-    "a": "Telč – náměstí se zámkem",
+    "a": "Telč",
     "options": [
-      "Lednicko – valtický areál – minaret, Tři grácie, zámek Lednice s kaplí",
-      "Telč – náměstí se zámkem",
-      "Praděd – hora, vysílač",
-      "Sv. Hostýn – poutní kostel"
+      "Lednicko-valtický areál",
+      "Telč",
+      "Praděd",
+      "Sv. Hostýn"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/trebic_bazilik_a",
-    "a": "Třebíč – bazilik a",
+    "a": "Třebíč – bazilika",
     "options": [
-      "Šviho v – vodní hrad",
-      "Plzeň – chrám sv. Bartolomě je",
-      "Třebíč – bazilik a",
-      "Ostrava – Vítkovické pece"
+      "Švihov",
+      "Plzeň – chrám sv. Bartoloměje",
+      "Třebíč – bazilika",
+      "Vítkovické pece"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/velky_blani_k_rozhled_na",
-    "a": "Velký Blaní k – rozhled na",
+    "a": "Velký Blaník",
     "options": [
-      "Kačina – Zámek",
-      "Dlouhé stráně – horní vodní nádrž",
-      "Sněžka – hora",
-      "Velký Blaní k – rozhled na"
+      "Kačina",
+      "Dlouhé stráně",
+      "Sněžka",
+      "Velký Blaník"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/zviko_v_hrad",
-    "a": "Zvíko v – hrad",
+    "a": "Zvíkov",
     "options": [
-      "Plumlo v – zámek",
-      "Zvíko v – hrad",
-      "Pravčická brá na – skalní útvar",
-      "Praděd – hora, vysílač"
+      "Plumlov",
+      "Zvíkov",
+      "Pravčická brána",
+      "Praděd"
     ]
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
     "img": "dominanty/zdar_nad_sazavo_u_poutni_areal_zelena_hora",
-    "a": "Žďár nad Sázavo u – poutní areál Zelená hora",
+    "a": "Zelená hora",
     "options": [
-      "Žďár nad Sázavo u – poutní areál Zelená hora",
-      "Praha – Karlů v most",
-      "Prachovské skály – skalní útvary",
-      "Praha – Vyšehrad"
+      "Zelená hora",
+      "Karlův most",
+      "Prachovské skály",
+      "Vyšehrad"
     ]
   }
 ]
