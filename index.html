@@ -271,11 +271,7 @@
         <div class="cat-name">Dominanty ČR</div>
         <div class="cat-count">📸 48 míst</div>
       </div>
-      <div class="cat-card" data-cat="topografie" onclick="selectCat(this)">
-        <div class="cat-icon">🗺️</div>
-        <div class="cat-name">Topografie</div>
-        <div class="cat-count">📸 48 značek</div>
-      </div>
+      <!-- topografie dočasně vypnuta -->
       <div class="cat-card" data-cat="vse" onclick="selectCat(this)" style="grid-column:1/-1;">
         <div class="cat-icon">🌟</div>
         <div class="cat-name">Vše dohromady — náhodně</div>
@@ -392,7 +388,7 @@
 
 <script>
 // ========== DATA ==========
-const MODULES = ['uzly','zdravoveda','historie','prirodniny','rostliny','souhvezdi','dominanty','topografie'];
+const MODULES = ['uzly','zdravoveda','historie','prirodniny','rostliny','souhvezdi','dominanty'];
 let QUESTIONS = {};
 
 async function loadQuestions() {
