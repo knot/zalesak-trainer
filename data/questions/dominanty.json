@@ -452,13 +452,13 @@
   },
   {
     "q": "Jak se jmenuje toto místo nebo dominanta?",
-    "img": "dominanty/sv_hostyn_poutni_kostel",
-    "a": "Sv. Hostýn",
+    "img": "dominanty/soos",
+    "a": "SOOS",
     "options": [
       "Telč",
       "Zvíkov",
       "Petřínská rozhledna",
-      "Sv. Hostýn"
+      "SOOS"
     ]
   },
   {
