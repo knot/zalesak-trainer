@@ -1,0 +1,578 @@
+[
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/zpevnena_cesta",
+    "imgClass": "topo",
+    "a": "Zpevněná cesta",
+    "options": [
+      "Vodojem",
+      "Polní a lesní cesta",
+      "Násep",
+      "Zpevněná cesta"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/pesina",
+    "imgClass": "topo",
+    "a": "Pěšina",
+    "options": [
+      "Zřícenina hradu",
+      "Vodní mlýn",
+      "Násep",
+      "Pěšina"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/polni_a_lesni_cesta",
+    "imgClass": "topo",
+    "a": "Polní a lesní cesta",
+    "options": [
+      "Polní a lesní cesta",
+      "Pomník",
+      "Továrna s komínem",
+      "Hranice národního parku"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/trasa_vodni_dopravy",
+    "imgClass": "topo",
+    "a": "Trasa vodní dopravy",
+    "options": [
+      "Násep",
+      "Trasa vodní dopravy",
+      "Řeka s mostem",
+      "Pěšina"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/silnice_1_tridy",
+    "imgClass": "topo",
+    "a": "Silnice 1. třídy",
+    "options": [
+      "Muzeum, galerie",
+      "Silnice 1. třídy",
+      "Hraniční přechod pro pěší a cyklisty",
+      "Orientačně důležitý strom"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/ostatni_silnice",
+    "imgClass": "topo",
+    "a": "Ostatní silnice",
+    "options": [
+      "Ostatní silnice",
+      "Vodojem",
+      "Rozhledna",
+      "Hranice CHKO"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/dalnice",
+    "imgClass": "topo",
+    "a": "Dálnice",
+    "options": [
+      "Meteorologická stanice",
+      "Trasa vodní dopravy",
+      "Dálnice",
+      "Ostatní silnice"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/nasep",
+    "imgClass": "topo",
+    "a": "Násep",
+    "options": [
+      "Elektrárna",
+      "Veřejné tábořiště",
+      "Zřícenina hradu",
+      "Násep"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/reka_s_jezerem",
+    "imgClass": "topo",
+    "a": "Řeka s jezerem",
+    "options": [
+      "Řeka s jezerem",
+      "Studna",
+      "Ubytovna",
+      "Silnice 1. třídy"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/reka_s_mostem",
+    "imgClass": "topo",
+    "a": "Řeka s mostem",
+    "options": [
+      "Pramen (studánka)",
+      "Řeka s mostem",
+      "Orientačně důležitý strom",
+      "Kostel"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/reka_s_privozem",
+    "imgClass": "topo",
+    "a": "Řeka s přívozem",
+    "options": [
+      "NTZ (noclehárna, tábořiště, zázemí)",
+      "Řeka s jezerem",
+      "Polní a lesní cesta",
+      "Řeka s přívozem"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/pramen",
+    "imgClass": "topo",
+    "a": "Pramen",
+    "options": [
+      "Hranice CHKO",
+      "Hotel",
+      "Pramen",
+      "Veřejné tábořiště"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/kostel",
+    "imgClass": "topo",
+    "a": "Kostel",
+    "options": [
+      "Chmelnice",
+      "Kostel",
+      "Orientačně důležitý strom",
+      "Stanice horské služby"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/meteorologicka_stanice",
+    "imgClass": "topo",
+    "a": "Meteorologická stanice",
+    "options": [
+      "Meteorologická stanice",
+      "Orientačně důležitý strom",
+      "Hotel",
+      "Elektrárna"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/pomnik",
+    "imgClass": "topo",
+    "a": "Pomník",
+    "options": [
+      "Hranice národního parku",
+      "Pomník",
+      "Hájovna, myslivna",
+      "Silnice 1. třídy"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/pevnost",
+    "imgClass": "topo",
+    "a": "Pevnost",
+    "options": [
+      "Pevnost",
+      "Pomník",
+      "Studna",
+      "Hranice národního parku"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/zricenina_hradu",
+    "imgClass": "topo",
+    "a": "Zřícenina hradu",
+    "options": [
+      "Pramen (studánka)",
+      "Zřícenina hradu",
+      "Ohniště, stánek, tůz",
+      "Pěšina"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/verejne_taboriste",
+    "imgClass": "topo",
+    "a": "Veřejné tábořiště",
+    "options": [
+      "Veřejné tábořiště",
+      "Hotel",
+      "Řeka s jezerem",
+      "Řeka s mostem"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/autokemping",
+    "imgClass": "topo",
+    "a": "Autokemping",
+    "options": [
+      "Polní a lesní cesta",
+      "Hájovna, myslivna",
+      "Pevnost",
+      "Autokemping"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/ohniste_stanek_tuz",
+    "imgClass": "topo",
+    "a": "Ohniště, stánek, tůz",
+    "options": [
+      "Ohniště, stánek, tůz",
+      "Porosty křoví",
+      "Vodojem",
+      "Zřícenina hradu"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/ntz_nocleharna_taboriste_zazemi",
+    "imgClass": "topo",
+    "a": "NTZ (noclehárna, tábořiště, zázemí)",
+    "options": [
+      "NTZ (noclehárna, tábořiště, zázemí)",
+      "Hotel",
+      "Studna",
+      "Přírodní zajímavost"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/vodni_mlyn",
+    "imgClass": "topo",
+    "a": "Vodní mlýn",
+    "options": [
+      "Hotel",
+      "Pramen",
+      "Vodní mlýn",
+      "NTZ (noclehárna, tábořiště, zázemí)"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/rozhledna",
+    "imgClass": "topo",
+    "a": "Rozhledna",
+    "options": [
+      "Rozhledna",
+      "Řeka s jezerem",
+      "Studna",
+      "NTZ (noclehárna, tábořiště, zázemí)"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/orientacne_dulezity_strom",
+    "imgClass": "topo",
+    "a": "Orientačně důležitý strom",
+    "options": [
+      "Orientačně důležitý strom",
+      "Sad a zahrada",
+      "Veřejné koupaliště",
+      "Elektrárna"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/muzeum_galerie",
+    "imgClass": "topo",
+    "a": "Muzeum, galerie",
+    "options": [
+      "Pěšina",
+      "Vodojem",
+      "Rozhledna",
+      "Muzeum, galerie"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/hranicni_prechod",
+    "imgClass": "topo",
+    "a": "Hraniční přechod",
+    "options": [
+      "Řeka s jezerem",
+      "Pomník",
+      "Muzeum, galerie",
+      "Hraniční přechod"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/hranicni_prechod_pro_pesi_a_cyklisty",
+    "imgClass": "topo",
+    "a": "Hraniční přechod pro pěší a cyklisty",
+    "options": [
+      "Hranice přírodního parku",
+      "Řeka s přívozem",
+      "Hraniční přechod pro pěší a cyklisty",
+      "Kulturně pozoruhodné místo"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/kulturne_pozoruhodne_misto",
+    "imgClass": "topo",
+    "a": "Kulturně pozoruhodné místo",
+    "options": [
+      "Hranice přírodního parku",
+      "Hraniční přechod",
+      "Hotel",
+      "Kulturně pozoruhodné místo"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/ubytovna",
+    "imgClass": "topo",
+    "a": "Ubytovna",
+    "options": [
+      "Polní a lesní cesta",
+      "Hranice národního parku",
+      "Ubytovna",
+      "Zpevněná cesta"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/hotel",
+    "imgClass": "topo",
+    "a": "Hotel",
+    "options": [
+      "Rozhledna",
+      "Hotel",
+      "Restaurace",
+      "Hranice CHKO"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/stanice_horske_sluzby",
+    "imgClass": "topo",
+    "a": "Stanice horské služby",
+    "options": [
+      "Stanice horské služby",
+      "Řeka s mostem",
+      "Pramen (studánka)",
+      "Muzeum, galerie"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/restaurace",
+    "imgClass": "topo",
+    "a": "Restaurace",
+    "options": [
+      "Hájovna, myslivna",
+      "Restaurace",
+      "Hranice přírodního parku",
+      "Ostatní silnice"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/hranice_chko",
+    "imgClass": "topo",
+    "a": "Hranice CHKO",
+    "options": [
+      "Chmelnice",
+      "Vodní mlýn",
+      "Hranice CHKO",
+      "Rozhledna"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/hranice_narodniho_parku",
+    "imgClass": "topo",
+    "a": "Hranice národního parku",
+    "options": [
+      "Ostatní silnice",
+      "Vodojem",
+      "Dálnice",
+      "Hranice národního parku"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/hranice_prirodniho_parku",
+    "imgClass": "topo",
+    "a": "Hranice přírodního parku",
+    "options": [
+      "Hranice přírodního parku",
+      "Ostatní silnice",
+      "Kulturně pozoruhodné místo",
+      "Hájovna, myslivna"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/prirodni_zajimavost",
+    "imgClass": "topo",
+    "a": "Přírodní zajímavost",
+    "options": [
+      "Hraniční přechod",
+      "Přírodní zajímavost",
+      "Vodojem",
+      "Kulturně pozoruhodné místo"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/sad_a_zahrada",
+    "imgClass": "topo",
+    "a": "Sad a zahrada",
+    "options": [
+      "Ohniště, stánek, tůz",
+      "Sad a zahrada",
+      "Rozhledna",
+      "Trasa vodní dopravy"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/vinice",
+    "imgClass": "topo",
+    "a": "Vinice",
+    "options": [
+      "Polní a lesní cesta",
+      "Vodojem",
+      "Vinice",
+      "Řeka s mostem"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/porosty_krovi",
+    "imgClass": "topo",
+    "a": "Porosty křoví",
+    "options": [
+      "Stanice horské služby",
+      "Vodojem",
+      "Chmelnice",
+      "Porosty křoví"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/chmelnice",
+    "imgClass": "topo",
+    "a": "Chmelnice",
+    "options": [
+      "Kostel",
+      "Přírodní zajímavost",
+      "Pramen",
+      "Chmelnice"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/vodojem",
+    "imgClass": "topo",
+    "a": "Vodojem",
+    "options": [
+      "Restaurace",
+      "Studna",
+      "Vodojem",
+      "Stanice horské služby"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/pramen_studanka",
+    "imgClass": "topo",
+    "a": "Pramen (studánka)",
+    "options": [
+      "Pramen (studánka)",
+      "Veřejné tábořiště",
+      "Stanice horské služby",
+      "Porosty křoví"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/verejne_koupaliste",
+    "imgClass": "topo",
+    "a": "Veřejné koupaliště",
+    "options": [
+      "Veřejné koupaliště",
+      "Vinice",
+      "Vodojem",
+      "Ubytovna"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/studna",
+    "imgClass": "topo",
+    "a": "Studna",
+    "options": [
+      "Samostatná budova",
+      "Ubytovna",
+      "Studna",
+      "Rozhledna"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/elektrarna",
+    "imgClass": "topo",
+    "a": "Elektrárna",
+    "options": [
+      "Elektrárna",
+      "Řeka s mostem",
+      "Restaurace",
+      "Vinice"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/hajovna_myslivna",
+    "imgClass": "topo",
+    "a": "Hájovna, myslivna",
+    "options": [
+      "Samostatná budova",
+      "Řeka s přívozem",
+      "Továrna s komínem",
+      "Hájovna, myslivna"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/tovarna_s_kominem",
+    "imgClass": "topo",
+    "a": "Továrna s komínem",
+    "options": [
+      "Zřícenina hradu",
+      "Továrna s komínem",
+      "Pramen",
+      "Vodojem"
+    ]
+  },
+  {
+    "q": "Co označuje tato mapová značka?",
+    "img": "topografie/samostatna_budova",
+    "imgClass": "topo",
+    "a": "Samostatná budova",
+    "options": [
+      "Studna",
+      "Pramen",
+      "Samostatná budova",
+      "NTZ (noclehárna, tábořiště, zázemí)"
+    ]
+  }
+]

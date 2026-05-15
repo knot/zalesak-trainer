@@ -11,7 +11,7 @@ GitHub Pages: **https://knot.github.io/zalesak-trainer/**
 
 ## Co je tento projekt
 
-Webová tréninková aplikace pro děti účastnící se Sokolských zálesáckých závodů župy Fügnerovy.
+Webová tréninková aplikace pro děti účastnící se Sokolských zálesáckých závodů.
 
 ---
 

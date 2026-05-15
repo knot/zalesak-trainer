@@ -390,18 +390,17 @@
 
 </div>
 
-<!-- Data files — loaded before the inline script -->
-<script src="data/text_questions.js"></script>
-<script src="data/uzly.js"></script>
-<script src="data/prirodniny.js"></script>
-<script src="data/rostliny.js"></script>
-<script src="data/souhvezdi.js"></script>
-<script src="data/dominanty.js"></script>
-<script src="data/topografie.js"></script>
-
 <script>
 // ========== DATA ==========
-const QUESTIONS = window.QUESTIONS_DATA || {};
+const MODULES = ['uzly','zdravoveda','historie','prirodniny','rostliny','souhvezdi','dominanty','topografie'];
+let QUESTIONS = {};
+
+async function loadQuestions() {
+  const results = await Promise.all(
+    MODULES.map(m => fetch(`data/questions/${m}.json`).then(r => r.json()))
+  );
+  MODULES.forEach((m, i) => { QUESTIONS[m] = results[i]; });
+}
 
 const QUIZ_SIZE = 20;
 
@@ -761,6 +760,7 @@ function morseSendSkip() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
+  loadQuestions();
   initMorseAlpha();
   buildHintGrids();
 });

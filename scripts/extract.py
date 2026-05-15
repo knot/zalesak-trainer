@@ -53,11 +53,65 @@ def to_key(name):
     return re.sub(r'[^a-z0-9]+', '_', name).strip('_')
 
 def make_options(correct, pool, n=4):
-    distractors = [x for x in pool if x != correct]
+    """Vyber n-1 distraktorů z pool (bez správné odpovědi)."""
+    distractors = [x for x in pool if x != correct and len(x.strip()) >= 4]
     random.shuffle(distractors)
     opts = [correct] + distractors[:n-1]
     random.shuffle(opts)
     return opts
+
+def make_options_grouped(correct, group_fn, all_names, n=4):
+    """
+    Vyber distraktory ze stejné podkategorie (např. pták→pták).
+    Pokud podkategorie nemá dost položek, doplní z celého poolu.
+    """
+    g = group_fn(correct)
+    same_group = [x for x in all_names if x != correct and group_fn(x) == g and len(x.strip()) >= 4]
+    random.shuffle(same_group)
+    distractors = same_group[:n-1]
+    if len(distractors) < n-1:
+        rest = [x for x in all_names if x != correct and x not in distractors and len(x.strip()) >= 4]
+        random.shuffle(rest)
+        distractors += rest[:n-1-len(distractors)]
+    opts = [correct] + distractors[:n-1]
+    random.shuffle(opts)
+    return opts
+
+# ── Klasifikace živočichů do podkategorií ────────────────────────────────────
+_BIRDS = {'bažant','čáp','datel','havran','holub','husa','kachna','káně','kos',
+          'kukačka','labuť','ledňáček','racek','sojka','sokol','sova','straka',
+          'strakapoud','sýkora','vlaštovka','volavka','vrabec','výr',
+          'brhlík','červenka','hrdlička','kormorán','pěnkava','poštolka',
+          'stehlík','sýček','špaček','zvonek'}
+_FISH  = {'candát','cejn','kapr','karas','lín','okoun','pstruh','sumec','štika','úhoř'}
+_REPT  = {'čolek','ještěrka','mlok','ropucha','rosnička','skokan','slepýš','užovka','zmije'}
+_MAMM  = {'bobr','daněk','jelen','jezevec','ježek','kamzík','králík','krtek','křeček',
+           'kuna','liška','medvěd','muflon','myš','netopýr','nutrie','ondatra','plch',
+           'potkan','prase','rejsek','rys','srnec','veverka','vlk','vydra','zajíc'}
+
+def animal_group(name):
+    low = name.lower()
+    if any(k in low for k in _BIRDS): return 'ptaci'
+    if any(k in low for k in _FISH):  return 'ryby'
+    if any(k in low for k in _REPT):  return 'plazi'
+    if any(k in low for k in _MAMM):  return 'savci'
+    return 'bezobratli'
+
+# ── Klasifikace rostlin do podkategorií ──────────────────────────────────────
+_TREES = {'borovice','bříza','buk','dub','habr','jalovec','jasan','javor','jedle',
+          'jeřáb','jilm','jírovec','kaštanovník','krušina','lípa','líska','lýkovec',
+          'modřín','olše','smrk','tis','topol','trnovník','vrba','vřes',
+          'bez','brslen','douglaska','ostružiník','pajasan','platan','střemcha','zerav',
+          'hloh','růže','brusnice','břečťan'}
+_HOUBY_KEYS = {'babka','bedla','hadovka','hnojník','holubinka','hřib','klouzek','kotrč',
+               'kozák','křemenáč','muchomůrka','ryzec','václavka','žampion',
+               'čechratka','čirůvka','hlíva','pýchavka','suchohřib','špička'}
+
+def plant_group(name):
+    low = name.lower()
+    if any(k in low for k in _HOUBY_KEYS): return 'houby'
+    if any(k in low for k in _TREES):      return 'dreviny'
+    return 'byliny'
 
 def write_js(filename, category, images_dict, questions_list):
     lines = [
@@ -230,7 +284,8 @@ def extract_animals():
         key = to_key(name)
         images[key] = b64
         questions.append({'q': animal_question(name), 'img': f'prirodniny/{key}',
-                          'a': name, 'options': make_options(name, names)})
+                          'a': name,
+                          'options': make_options_grouped(name, animal_group, names)})
 
     write_js('prirodniny.js', 'prirodniny', images, questions)
 
@@ -299,7 +354,8 @@ def extract_plants():
         key = to_key(name)
         images[key] = b64
         questions.append({'q': plant_question(name), 'img': f'rostliny/{key}',
-                          'a': name, 'options': make_options(name, names)})
+                          'a': name,
+                          'options': make_options_grouped(name, plant_group, names)})
 
     write_js('rostliny.js', 'rostliny', images, questions)
 
@@ -376,6 +432,104 @@ def extract_constellations():
 
 # ─────────────────────────── mistopis ───────────────────────────────────────
 
+def _spans_to_text(spans):
+    """
+    Spoj rozpětí textu (spans) na jednom řádku do jednoho řetězce.
+    Pokud je mezera mezi koncem span1 a začátkem span2 < 2 pt → spoj BEZ mezery.
+    """
+    text = ''
+    prev_x1 = None
+    for span in spans:
+        s = span['text']
+        x0 = span['bbox'][0]
+        if prev_x1 is None:
+            text = s
+        elif x0 - prev_x1 < 2.0:
+            text += s          # část jednoho slova
+        else:
+            text += ' ' + s.lstrip()
+        prev_x1 = span['bbox'][2]
+    return text.strip()
+
+_LOWER_CZ  = re.compile(r'[a-záčďéěíňóřšťúůýž]$')
+_LOWER_CZ_S = re.compile(r'[a-záčďéěíňóřšťúůýž]')
+
+def _join_lines(line_infos):
+    """
+    Spoj řádky bloku inteligentně.
+    line_infos: list of (text, line_width, block_max_width)
+
+    Pokračování slova (bez mezery) nastane pokud VŠECHNY platí:
+      - předchozí řádek nekončí mezerou ani interpunkcí
+      - příští řádek nezačíná mezerou
+      - oba konce/začátky jsou malá písmena
+      - příští řádek je KRÁTKÝ (< 85 % max šířky bloku) → jde o řádkový zlom uvnitř slova
+      - první slovo příštího řádku má ≤ 4 znaky
+    """
+    if not line_infos:
+        return ''
+    txt, _, max_w = line_infos[0]
+    for lt, lw, _ in line_infos[1:]:
+        if not lt.strip():
+            continue
+        is_partial    = (max_w > 0) and (lw < 0.85 * max_w)
+        first_word    = lt.split()[0] if lt.split() else lt
+        fw_len        = len(first_word.strip())
+        prev_ends_ws  = txt.endswith(' ')
+        next_starts_ws= lt.startswith(' ')
+        prev_rstrip   = txt.rstrip()
+        prev_ends_punc= prev_rstrip.endswith(('–', '-', '.', ',', '(', ')'))
+        both_lower    = (bool(_LOWER_CZ.search(prev_rstrip)) and
+                        bool(lt.strip() and _LOWER_CZ_S.match(lt.strip()[0])))
+
+        if prev_ends_ws or next_starts_ws:
+            txt = txt + lt
+        elif prev_ends_punc:
+            txt = prev_rstrip + ' ' + lt.lstrip()
+        elif is_partial and both_lower and fw_len <= 4:
+            txt = prev_rstrip + lt.lstrip()   # pokračování slova
+        else:
+            txt = prev_rstrip + ' ' + lt.lstrip()
+    return txt.strip()
+
+def _fix_label(txt):
+    """Bezpečné opravy: mezera za '–', mezera před 'sv.'."""
+    txt = re.sub(r'\s+', ' ', txt)
+    txt = re.sub(r'([–])([^\s–])', r'\1 \2', txt)
+    txt = re.sub(r'([^\s])(sv\.)', r'\1 \2', txt)
+    return re.sub(r'\s+', ' ', txt).strip()
+
+def _page_labels(page):
+    """
+    Extrahuj popisky z PDF stránky.
+    Vrátí list {'cx','cy','x0','x1','txt'}.
+    """
+    labels = []
+    SKIP = re.compile(r'^\d{2}\.\d{2}\.\d{4}$|^\d+$')
+    for block in page.get_text('dict')['blocks']:
+        if block['type'] != 0:
+            continue
+        bx0, by0, bx1, by1 = block['bbox']
+        cx = (bx0 + bx1) / 2
+        cy = (by0 + by1) / 2
+
+        # Shromáždi (text, šířka_řádku) pro každý řádek bloku
+        line_infos = []   # (text, line_width, block_max_width — placeholder)
+        block_max_w = bx1 - bx0
+        for line in block['lines']:
+            lt = _spans_to_text(line['spans'])
+            if lt.strip() and not SKIP.match(lt.strip()):
+                lx0 = line['bbox'][0]
+                lx1 = line['bbox'][2]
+                lw  = lx1 - lx0
+                line_infos.append((lt, lw, block_max_w))
+
+        txt = _join_lines(line_infos)
+        txt = _fix_label(txt)
+        if txt and len(txt) >= 2:
+            labels.append({'cx': cx, 'cy': cy, 'x0': bx0, 'x1': bx1, 'txt': txt})
+    return labels
+
 def extract_mistopis():
     print('\n🏰 Mistopis / Dominanty')
     doc = fitz.open(os.path.join(UPLOADS, 'mistopis.pdf'))
@@ -383,35 +537,11 @@ def extract_mistopis():
 
     for pi in range(doc.page_count):
         page = doc[pi]
-        words = page.get_text('words')
+        raw_labels = _page_labels(page)
 
-        line_map = {}
-        for w in words:
-            cy = round((w[1]+w[3])/2 / 5) * 5
-            cx = (w[0]+w[2])/2
-            line_map.setdefault(cy, []).append((cx, w[4]))
-
-        raw_labels = []
-        for cy in sorted(line_map):
-            row = sorted(line_map[cy], key=lambda x: x[0])
-            groups, cur = [], [row[0]]
-            for w in row[1:]:
-                if w[0] - cur[-1][0] < 70:
-                    cur.append(w)
-                else:
-                    groups.append(cur)
-                    cur = [w]
-            groups.append(cur)
-            for grp in groups:
-                text = ' '.join(g[1] for g in grp).strip()
-                if re.match(r'^\d{2}\.\d{2}\.\d{4}$', text) or re.match(r'^\d+$', text):
-                    continue
-                gcx = sum(g[0] for g in grp) / len(grp)
-                raw_labels.append({'cx': gcx, 'cy': cy, 'txt': text})
-
-        # Slouč blízké popisky (±80 X, ±40 Y)
+        # Slouč blízké bloky (±100 X, ±50 Y).
+        # Pokud x-mezera mezi bloky < 2 pt → stejné slovo (bez mezery).
         used, merged = set(), []
-        raw_labels.sort(key=lambda x: (round(x['cx']/80), x['cy']))
         for i, lb in enumerate(raw_labels):
             if i in used:
                 continue
@@ -419,30 +549,45 @@ def extract_mistopis():
             for j, lb2 in enumerate(raw_labels):
                 if j in used:
                     continue
-                if abs(lb2['cx']-lb['cx']) < 80 and abs(lb2['cy']-lb['cy']) < 40:
+                if abs(lb2['cx'] - lb['cx']) < 110 and abs(lb2['cy'] - lb['cy']) < 55:
                     group.append(lb2); used.add(j)
-            txt = ' '.join(g['txt'] for g in sorted(group, key=lambda x: x['cy']))
+
+            # Seřaď bloky zleva doprava (primárně X, sekundárně Y)
+            group_sorted = sorted(group, key=lambda x: (round(x['cy']/15), x['x0']))
+            # Spoj s detekcí split-slov
+            txt = group_sorted[0]['txt']
+            prev_x1 = group_sorted[0]['x1']
+            for g in group_sorted[1:]:
+                gap = g['x0'] - prev_x1
+                if gap < 2.0:
+                    txt += g['txt']         # část téhož slova
+                else:
+                    txt += ' ' + g['txt']   # nové slovo
+                prev_x1 = g['x1']
+
             txt = re.sub(r'\s+', ' ', txt).strip()
-            cx = sum(g['cx'] for g in group)/len(group)
-            cy = sum(g['cy'] for g in group)/len(group)
-            merged.append({'cx': cx, 'cy': cy, 'txt': txt})
+            txt = re.sub(r'\s*[-–]\s*', ' – ', txt)
+            txt = re.sub(r'\s+', ' ', txt).strip()
+            cx = sum(g['cx'] for g in group) / len(group)
+            cy = sum(g['cy'] for g in group) / len(group)
+            if len(txt) >= 4:
+                merged.append({'cx': cx, 'cy': cy, 'txt': txt})
 
         img_infos = page.get_image_info(xrefs=True)
         img_infos = [i for i in img_infos if i['width'] > 80 and i['height'] > 80]
 
         for img_info in img_infos:
             bbox = img_info['bbox']
-            img_cx = (bbox[0]+bbox[2])/2
-            img_cy = (bbox[1]+bbox[3])/2
-            y_lo, y_hi = bbox[1]-10, bbox[3]+10
+            img_cx = (bbox[0] + bbox[2]) / 2
+            img_cy = (bbox[1] + bbox[3]) / 2
+            y_lo, y_hi = bbox[1] - 10, bbox[3] + 10
             candidates = [lb for lb in merged if y_lo <= lb['cy'] <= y_hi]
             if not candidates:
-                candidates = [lb for lb in merged if abs(lb['cy']-img_cy) < 120]
+                candidates = [lb for lb in merged if abs(lb['cy'] - img_cy) < 120]
             if not candidates:
                 continue
-            best = min(candidates, key=lambda lb: abs(lb['cx']-img_cx))
-            label = re.sub(r'\s*[-–]\s*', ' – ', best['txt'])
-            label = re.sub(r'\s+', ' ', label).strip()
+            best = min(candidates, key=lambda lb: abs(lb['cx'] - img_cx))
+            label = _fix_label(best['txt'])
             try:
                 b64 = img_to_b64jpeg(doc.extract_image(img_info['xref'])['image'], max_px=400)
             except Exception:
@@ -450,12 +595,17 @@ def extract_mistopis():
             entries.append((label, b64))
 
     doc.close()
+
+    # Deduplikace — zachovej první obrázek pro každý label
     seen = {}
     for name, b64 in entries:
-        if name not in seen:
+        if name not in seen and len(name) >= 5:
             seen[name] = b64
     entries = list(seen.items())
+
     print(f'  Unikátních dominant: {len(entries)}')
+    for name, _ in sorted(entries):
+        print(f'    {name}')
 
     names = [e[0] for e in entries]
     images, questions = {}, []

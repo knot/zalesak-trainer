@@ -1,0 +1,142 @@
+[
+  {
+    "q": "Jak se jmenuje uzel tvořící pevnou smyčku, která se neutahuje?",
+    "a": "Lodní uzel",
+    "options": [
+      "Lodní uzel",
+      "Osmičkový uzel",
+      "Tesařský uzel",
+      "Dračí smyčka"
+    ]
+  },
+  {
+    "q": "Jaký uzel se používá ke spojování dvou lan stejné tloušťky?",
+    "a": "Plochý uzel (čtvercový)",
+    "options": [
+      "Plochý uzel (čtvercový)",
+      "Lodní uzel",
+      "Lodní smyčka",
+      "Alpský motýl"
+    ]
+  },
+  {
+    "q": "Jak se nazývá uzel ve tvaru číslice 8?",
+    "a": "Osmičkový uzel",
+    "options": [
+      "Osmičkový uzel",
+      "Plochý uzel",
+      "Tesařský uzel",
+      "Prusíkův uzel"
+    ]
+  },
+  {
+    "q": "Jaký uzel se váže na tyč nebo kůl pro upevnění lana?",
+    "a": "Tesařský uzel",
+    "options": [
+      "Tesařský uzel",
+      "Lodní uzel",
+      "Plochý uzel",
+      "Zkracovačka"
+    ]
+  },
+  {
+    "q": "Jak se jmenuje uzel pro zkrácení lana bez stříhání?",
+    "a": "Zkracovačka",
+    "options": [
+      "Zkracovačka",
+      "Alpský motýl",
+      "Prusíkův uzel",
+      "Dračí smyčka"
+    ]
+  },
+  {
+    "q": "Jaký uzel umožňuje posunování po napnutém laně (třecí uzel)?",
+    "a": "Prusíkův uzel",
+    "options": [
+      "Prusíkův uzel",
+      "Zkracovačka",
+      "Osmičkový uzel",
+      "Tesařský uzel"
+    ]
+  },
+  {
+    "q": "Jak se jmenuje uzel pro spojení dvou lan různých tlouštěk?",
+    "a": "Škotová spojka",
+    "options": [
+      "Škotová spojka",
+      "Plochý uzel",
+      "Alpský motýl",
+      "Lodní uzel"
+    ]
+  },
+  {
+    "q": "Jaký uzel zálesáci používají jako základní spojovací uzel?",
+    "a": "Plochý uzel (čtvercový)",
+    "options": [
+      "Plochý uzel (čtvercový)",
+      "Osmičkový uzel",
+      "Alpský motýl",
+      "Lodní uzel"
+    ]
+  },
+  {
+    "q": "Jak se jmenuje uzel tvořící pevnou smyčku uprostřed lana?",
+    "a": "Alpský motýl",
+    "options": [
+      "Alpský motýl",
+      "Lodní uzel",
+      "Osmičkový uzel",
+      "Rybářský uzel"
+    ]
+  },
+  {
+    "q": "Jaký uzel tuhne při zatížení a je samosvěrný?",
+    "a": "Prusíkův uzel",
+    "options": [
+      "Prusíkův uzel",
+      "Zkracovačka",
+      "Tesařský uzel",
+      "Dračí smyčka"
+    ]
+  },
+  {
+    "q": "Jak se jmenuje horolezecký uzel pro jistění na laně (UIAA)?",
+    "a": "Očková spojka (UIAA)",
+    "options": [
+      "Očková spojka (UIAA)",
+      "Osmičkový uzel",
+      "Prusíkův uzel",
+      "Plochý uzel"
+    ]
+  },
+  {
+    "q": "Jaký uzel se používá pro napínání šňůry tábora nebo stanu?",
+    "a": "Tesařský uzel",
+    "options": [
+      "Tesařský uzel",
+      "Lodní uzel",
+      "Plochý uzel",
+      "Alpský motýl"
+    ]
+  },
+  {
+    "q": "Jak se jmenuje nejzákladnější horolezecký uzel pro připevnění k laně?",
+    "a": "Osmičkový uzel",
+    "options": [
+      "Osmičkový uzel",
+      "Plochý uzel",
+      "Lodní uzel",
+      "Prusíkův uzel"
+    ]
+  },
+  {
+    "q": "Jaký uzel použiješ pro spojení lana s karabinou nebo kůlem?",
+    "a": "Lodní uzel",
+    "options": [
+      "Lodní uzel",
+      "Škotová spojka",
+      "Prusíkův uzel",
+      "Zkracovačka"
+    ]
+  }
+]

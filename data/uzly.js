@@ -1,1 +1,0 @@
-var QUESTIONS_DATA=window.QUESTIONS_DATA||(window.QUESTIONS_DATA={});
