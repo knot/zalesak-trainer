@@ -37,11 +37,14 @@ images/
   topografie/               # 48 JPEG souborů
   uzly/                     # 5 JPEG souborů (pouze pro referenci, otázky odstraněny)
 scripts/
-  extract.py                # Extrakce obrázků z PDF → images/ + data/questions/*.json
-  extract_images.py         # Jednorázový skript: base64 → binární soubory (již hotovo)
-  extract_questions.py      # Jednorázový skript: JS → JSON (již hotovo)
-  fix_dominanty.py          # Jednorázový skript: oprava OCR artefaktů v dominanty.json
-  fix_species_names.py      # Jednorázový skript: doplnění druhových jmen
+  extract.py                # Hlavní extrakční skript: PDF → images/ + data/questions/*.json
+  extract_topografie.py     # Extrakce mapových značek z Mapové značky 2019.pdf
+                            #   — sloupce x=[190,400,570,745], řádky z pozic čísel buněk
+                            #   — 30px padding nahoře/dole pro úplné značky
+  extract_images.py         # Jednorázový: base64 → binární soubory (již hotovo)
+  extract_questions.py      # Jednorázový: JS → JSON (již hotovo)
+  fix_dominanty.py          # Jednorázový: oprava OCR artefaktů v dominanty.json (již hotovo)
+  fix_species_names.py      # Jednorázový: doplnění druhových jmen (již hotovo)
 uploads/                    # Zdrojové PDF (lokálně, není v repozitáři — .gitignored)
 CLAUDE.md                   # Tento soubor
 ```
@@ -97,9 +100,12 @@ Otázky je odkazují přes pole `img`, např. `"img": "prirodniny/bobr"`.
 
 ### Formát otázky (JSON)
 ```json
-{ "q": "Co je toto zvíře?", "img": "prirodniny/bobr_evropsky", "a": "bobr evropský", "options": ["plch velký", "liška obecná", "bobr evropský", "netopýr velký"] }
+{ "q": "", "img": "prirodniny/bobr_evropsky", "a": "bobr evropský", "options": ["plch velký", "liška obecná", "bobr evropský", "netopýr velký"] }
 ```
-Pro topografii navíc: `"imgClass": "topo"` (zobrazí menší obrázek).
+- `"q": ""` — u obrázkových modulů (přírodniny, rostliny, dominanty, topografie) je text otázky prázdný; element se skryje
+- Pro topografii navíc: `"imgClass": "topo"` (zobrazí menší obrázek)
+- Možnosti musí být ze stejné taxonomické skupiny (ptáci k ptákům, ryby k rybám atd.)
+- Živočichové a rostliny mají vždy rodové + druhové jméno ("bobr evropský", ne jen "bobr")
 
 ### Kategorie
 
@@ -136,13 +142,19 @@ V příslušném `data/questions/<modul>.json` přidej do pole:
 1. Přidej JPEG do `images/<kategorie>/<klic>.jpg`
 2. Přidej záznam do `data/questions/<kategorie>.json`:
 ```json
-{ "q": "Co je toto zvíře?", "img": "prirodniny/<klic>", "a": "název druhu", "options": [...] }
+{ "q": "", "img": "prirodniny/<klic>", "a": "název druhu", "options": [...] }
 ```
 
 ### Aktualizovat data z PDF
 1. Vlož nová PDF do adresáře `uploads/`
 2. Spusť `python3 scripts/extract.py`
 3. Skript přepíše soubory v `data/questions/` a `images/`
+
+### Znovu extrahovat mapové značky
+```bash
+python3 scripts/extract_topografie.py
+```
+Sloupce PDF jsou na x=[190, 400, 570, 745] (3× scale). Řádky se detekují z pozic čísel buněk v PDF.
 
 ---
 
