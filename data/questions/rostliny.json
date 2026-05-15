@@ -112,10 +112,10 @@
   {
     "q": "Co je tato rostlina?",
     "img": "rostliny/hloh",
-    "a": "hloh",
+    "a": "hloh obecný",
     "options": [
       "habr obecný",
-      "hloh",
+      "hloh obecný",
       "jilm (horský)",
       "javor klen"
     ]
@@ -205,7 +205,7 @@
       "pupava (bezlodyžná)",
       "jírovec maďal",
       "jilm (horský)",
-      "hloh"
+      "hloh obecný"
     ]
   },
   {
@@ -596,10 +596,10 @@
   {
     "q": "Co je tato rostlina?",
     "img": "rostliny/leknin",
-    "a": "leknín",
+    "a": "leknín bílý",
     "options": [
       "mateřídouška (vejčitá)",
-      "leknín",
+      "leknín bílý",
       "lebeda (rozkladitá)",
       "violka vonná"
     ]
@@ -744,7 +744,7 @@
       "durman (obecný)",
       "sedmikráska chudobka",
       "srha (laločnatá)",
-      "leknín"
+      "leknín bílý"
     ]
   },
   {
@@ -907,7 +907,7 @@
     "a": "bedla vysoká",
     "options": [
       "hnojník obecný",
-      "kotrč",
+      "kotrč kadeřavý",
       "bedla vysoká",
       "babka (hřib žlutomasý)"
     ]
@@ -992,11 +992,11 @@
   {
     "q": "Co je tato houba?",
     "img": "rostliny/kotrc",
-    "a": "kotrč",
+    "a": "kotrč kadeřavý",
     "options": [
       "čirůvka májovka",
       "žampion (pečárka polní)",
-      "kotrč",
+      "kotrč kadeřavý",
       "čirůvka fialová"
     ]
   },
@@ -1039,7 +1039,7 @@
     "a": "muchomůrka růžovka",
     "options": [
       "babka (hřib žlutomasý)",
-      "kotrč",
+      "kotrč kadeřavý",
       "muchomůrka růžovka",
       "muchomůrka červená"
     ]
@@ -1061,7 +1061,7 @@
     "a": "ryzec kravský",
     "options": [
       "čirůvka fialová",
-      "kotrč",
+      "kotrč kadeřavý",
       "babka (hřib žlutomasý)",
       "ryzec kravský"
     ]
@@ -1162,7 +1162,7 @@
       "smrk ztepilý",
       "vrba bílá",
       "kaštanovník (setý)",
-      "hloh"
+      "hloh obecný"
     ]
   },
   {
