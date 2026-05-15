@@ -72,6 +72,8 @@
   .question-card { background: white; border-radius: 20px; padding: 1.4rem 1.2rem; box-shadow: 0 4px 20px var(--shadow); margin-bottom: 1rem; }
   .question-category { font-size: 0.75rem; font-weight: 800; text-transform: uppercase; letter-spacing: 1px; color: var(--moss); margin-bottom: 0.6rem; }
   .question-text { font-size: clamp(1rem,3.5vw,1.2rem); font-weight: 700; line-height: 1.4; color: #1e2e18; }
+  .video-link { display:inline-block; margin-top:0.6rem; font-size:0.85rem; color:#1a6b2a; text-decoration:none; font-weight:600; border:1.5px solid #1a6b2a; border-radius:8px; padding:0.25rem 0.7rem; }
+  .video-link:hover { background:#e8f5e3; }
   .question-image {
     width: 100%; max-width: 280px; margin: 0.9rem auto 0;
     display: block; border-radius: 12px;
@@ -296,6 +298,7 @@
     <div class="question-card">
       <div class="question-category" id="q-category"></div>
       <div class="question-text" id="q-text"></div>
+      <a id="q-video" href="#" target="_blank" rel="noopener" style="display:none" class="video-link">📺 Jak se váže</a>
       <img id="q-image" class="question-image" style="display:none" alt="obrázek otázky">
     </div>
     <div class="answers" id="answers"></div>
@@ -460,6 +463,14 @@ function renderQuestion() {
   const qTextEl = document.getElementById('q-text');
   qTextEl.textContent    = q.q;
   qTextEl.style.display  = q.q ? '' : 'none';
+
+  const videoEl = document.getElementById('q-video');
+  if (q.video) {
+    videoEl.href         = q.video;
+    videoEl.style.display = '';
+  } else {
+    videoEl.style.display = 'none';
+  }
 
   const imgEl = document.getElementById('q-image');
   if (q.img) {
